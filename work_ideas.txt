@@ -1,0 +1,225 @@
+House bills project:
+
+Ideas:
+- predict how politicians will vote on the next bill
+	- softmax regression
+- predict whether a bill will be passed
+	- logistic regression
+- classify congress members by ideology, based on how they vote
+	- linear regression
+
+-----
+
+Data:
+
+List of bills:
+https://en.wikipedia.org/wiki/List_of_acts_of_the_118th_United_States_Congress
+	- look for "h.r."
+https://en.wikipedia.org/wiki/118th_United_States_Congress#Major_legislation
+	- House bills
+
+Run list of bills through https://www.c-span.org/congress/votes/?chamber=house and see if it's been voted on
+
+make a word cloud script and run each congress.gov entry through it to get key phrases
+
+-----
+
+Features:
+
+- date and time of vote
+- introduced
+- committees
+- pass threshold
+- yea, nay, not voting, other, present (parties)
+- cosponsors
+	- party
+	- state
+	- district
+- key phrases	
+	
+----------
+
+Gerrymandering project:
+
+Optimal play
+What is optimal play?  Is it each player freezes the district that favors them the most?  Or any district that favors them?  How are the initial map and the maps that follow drawn?  Is it with the most favorable districts or should we use the R package to make a random map?
+
+Random variables
+What are the random variables X_i and y?  Does y just have one value, the statistical average of the election results of a sample of randomly drawn maps?
+
+One state
+Should we restrict our project to one state (Iowa)?  Maybe to begin with, the package has data about Iowa.
+
+Election results
+How do we determine election results for a particular map?  In some cases, districts are allowed to split counties, cities, and even precincts.  However, the data I've seen only shows how counties voted (e.g., https://www.reuters.com/graphics/USA-ELECTION/RESULTS/dwvkdgzdqpm/).  Does the R package leave counties intact?
+
+Redistricting rules
+Does the R package follow the redistricting rules for each state?
+
+Export the Iowa data
+
+Python packages for gerrymandering?  (gerrychain?)  Python package for redistricting?
+
+Training the AIs: I kind of see how to train the AI to optimize the freezing step, but not the redrawing step.
+
+Learn about Markov chains for gerrychain
+
+----------
+
+For Gleb:
+
+Xs: compactness, population parity, other metrics in the package?
+
+Gleb:
+
+classifier (is or is not gerrymandered?  need metrics) or (logistic?) regression for percentages of party affiliation (maybe do both by splitting into teams)
+
+gerrymandering data sets kaggle, look who won kaggle competitions and boot camp competition
+
+maybe nn in the last 2 weeks
+
+explainable ai (xai)
+
+random forest?
+
+sklearn tutorial (cluster of fair vs. unfair districts), sgd(?) classifier examples
+
+meet next monday, put questions in slack or gleb.zh@gmail.com
+
+https://www.census.gov/mycd/?st=04&cd=05
+
+https://www.census.gov/mycd/?st=05
+
+Look at the data set that measures gerrymandering (need the demographic data 156-299).  Logistic regression.
+
+----------
+
+today:
+
+indiana.zip from MGGG-States github (2016)
+
+Indiana_District_all.csv (118th Congress) from https://www.census.gov/mycd/?st=18&cd=01
+
+features: party16, clinton16, trump16, dem16?  later by 2 years?
+
+train data on 16, then apply to 18
+
+data for 2020 election?
+
+groupby year, then state (Melanie's data)
+
+topic: Which house seats can be flipped?
+
+----------
+
+to do (House seat project):
+
+update main readme: describe the data set, state the problem, list stakeholders, list kpis
+
+annotate the notebook in markdown
+
+find more efficient code
+
+lines with # for debugging can be commented out or deleted
+
+more data exploration, see the comments in that section of the notebook
+
+implement the model (logistic regression?)
+
+----------
+
+538 project:
+
+to finish:  don't worry about networks for now.  make supertags and make the scatterplots again
+
+PCA results or one-hot for clustering algorithm
+
+authors network: get rid of self loops, use a spring layout, community connections (write more about certain topics) 
+
+PCA authors vs. tags: get percentages instead of number of articles.  pca.transform (see how this is done in the lecture notebook), then make a scatterplot to get information about the authors 
+
+put functions in a separate .py file:  DataExploration.function
+
+PCA results make plots of columns against each other
+
+PCA_input: Start with a matrix of 0s.  Then
+	for i in raw_data.index:
+    for tag in raw_data.Tags[i].split("; "):
+        j = np.where(features == tag)[0][0]
+        matrix[i,j] = 1
+
+group into supertags
+
+don't color code the other scatterplots
+
+Google search: set title for all subplots
+
+code to fix no time stamp 
+
+other unsupervised learning techniques
+
+clustering algorithm on the pca results
+
+What questions should my data analysis answer (i.e., what should go into my presentation)?  Should interpret and explore the data in DataExplorationI.
+
+----------
+
+Fitbit project:
+
+define the svgs within the Javascript
+
+Average exercise per day of the week
+
+highlight points/bars on the graphs 
+
+----------
+
+Office hours questions:
+
+Why aren't my repositories showing up in Github Desktop?
+
+Does Anaconda start a local server when I want to open a Jupyter notebook?
+Started a local server by typing localhost:8000 into my browser?
+
+-----
+
+Website:
+
+How do I format the date in the last modified section?
+
+-----
+
+538 project:
+
+My scraper didn't stop at 1000?
+
+Check initial frequency plots
+	- How do I make a legend for all the subplots?  How do I make a title for all the subplots?
+	- Color-coded?  Should I highlight the dots on the scatterplots?
+	- What can I conclude?
+	
+PCA on all features is printing out a matrix that I didn't ask for, then showing the error "Shape of passed values is (819, 1), indices imply (819, 819)"?	
+
+How many PCA components deep should I go to find correlations?
+
+Prune tags/create supertags, then do the scatterplots again?  Do the same with authors?
+
+What is my PCA input for authors vs. tags showing?  Is it the number of times an author has written a post with each tag?
+
+How do I interpret PCA on authors vs. tags?
+
+I think adjacency matrix for authors is showing a 1 for any collaboration.  I don't think it makes sense to do a network with the authors.  Should I do PCA on posts vs. authors instead?
+
+Do I need to do one-hot encoding to run a clustering algorithm?  Is k-means or hierarchical better for this data?
+
+----------
+
+Blog posts:
+
+pandas, esp. loc and copy
+
+list comprehension
+
+fixing the pictures on my blog
+
+lambda functions
