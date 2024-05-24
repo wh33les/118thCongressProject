@@ -1,0 +1,1089 @@
+bill_id,roll_call_id,date,chamber,description,yea,nay,nv,absent,total
+1650565,1231562,2023-01-11,House,"On Motion to Recommit",212,219,0,3,434
+1650565,1231563,2023-01-11,House,"On Passage",220,210,1,3,434
+1650755,1272222,2023-03-08,House,"On Agreeing to the Amendment RC# 138",207,223,0,10,440
+1650755,1272223,2023-03-08,House,"On Agreeing to the Amendment RC# 139",209,221,0,10,440
+1650755,1272788,2023-03-09,House,"On Motion to Recommit RC# 140",204,218,0,13,435
+1650755,1272789,2023-03-09,House,"On Passage RC# 141",219,206,0,9,434
+1650862,1231751,2023-01-12,House,"On Passage",331,97,0,6,434
+1650874,1231355,2023-01-10,House,"On Agreeing to the Resolution",221,211,0,2,434
+1650920,1236890,2023-01-26,House,"On Agreeing to the Amendment",205,220,0,15,440
+1650920,1236891,2023-01-26,House,"On Agreeing to the Amendment",213,218,0,9,440
+1650920,1236892,2023-01-26,House,"On Agreeing to the Amendment",214,219,0,7,440
+1650920,1236893,2023-01-26,House,"On Agreeing to the Amendment",214,219,0,7,440
+1650920,1236894,2023-01-26,House,"On Agreeing to the Amendment",389,42,0,8,439
+1650920,1236895,2023-01-26,House,"On Agreeing to the Amendment",14,418,0,7,439
+1650920,1236896,2023-01-26,House,"On Agreeing to the Amendment",213,218,0,8,439
+1650920,1236897,2023-01-26,House,"On Agreeing to the Amendment",220,212,0,7,439
+1650920,1236898,2023-01-26,House,"On Agreeing to the Amendment",213,218,0,8,439
+1650920,1236899,2023-01-26,House,"On Agreeing to the Amendment",212,218,0,9,439
+1650920,1236900,2023-01-26,House,"On Agreeing to the Amendment",205,225,0,9,439
+1650920,1236901,2023-01-26,House,"On Agreeing to the Amendment",213,218,0,8,439
+1650920,1236902,2023-01-26,House,"On Agreeing to the Amendment",213,218,0,8,439
+1650920,1236903,2023-01-26,House,"On Agreeing to the Amendment",213,219,0,7,439
+1650920,1236904,2023-01-26,House,"On Agreeing to the Amendment",210,222,0,7,439
+1650920,1236905,2023-01-26,House,"On Agreeing to the Amendment",213,219,0,7,439
+1650920,1236906,2023-01-26,House,"On Agreeing to the Amendment",213,219,0,7,439
+1650920,1236907,2023-01-26,House,"On Agreeing to the Amendment",197,235,0,7,439
+1650920,1236908,2023-01-26,House,"On Agreeing to the Amendment",212,220,0,7,439
+1650920,1236909,2023-01-26,House,"On Agreeing to the Amendment",204,228,0,7,439
+1650920,1236910,2023-01-26,House,"On Agreeing to the Amendment",419,13,0,7,439
+1650920,1236911,2023-01-26,House,"On Agreeing to the Amendment",418,12,0,9,439
+1650920,1236912,2023-01-26,House,"On Agreeing to the Amendment",199,232,0,8,439
+1650920,1236913,2023-01-26,House,"On Agreeing to the Amendment",199,230,0,10,439
+1650920,1237425,2023-01-27,House,"On Passage",221,205,0,8,434
+1650920,1237754,2023-01-27,House,"On Agreeing to the Amendment",207,223,0,9,439
+1650920,1237755,2023-01-27,House,"On Agreeing to the Amendment",211,217,0,11,439
+1650920,1237756,2023-01-27,House,"On Agreeing to the Amendment",212,215,0,13,440
+1650920,1237757,2023-01-27,House,"On Agreeing to the Amendment",209,215,0,16,440
+1650920,1237758,2023-01-27,House,"On Agreeing to the Amendment",204,222,0,14,440
+1650920,1237759,2023-01-27,House,"On Agreeing to the Amendment",205,220,0,15,440
+1650920,1237760,2023-01-27,House,"On Agreeing to the Amendment",171,256,0,12,439
+1650920,1237761,2023-01-27,House,"On Agreeing to the Amendment",193,228,0,18,439
+1650920,1237762,2023-01-27,House,"On Agreeing to the Amendment",199,229,0,11,439
+1650920,1237763,2023-01-27,House,"On Agreeing to the Amendment",205,224,0,10,439
+1650920,1237764,2023-01-27,House,"On Agreeing to the Amendment",207,220,0,12,439
+1650920,1237765,2023-01-27,House,"On Agreeing to the Amendment",212,218,0,9,439
+1650920,1237766,2023-01-27,House,"On Agreeing to the Amendment",199,231,0,9,439
+1650920,1237767,2023-01-27,House,"On Agreeing to the Amendment",195,229,0,15,439
+1650920,1237768,2023-01-27,House,"On Agreeing to the Amendment",191,237,0,11,439
+1650920,1237769,2023-01-27,House,"On Agreeing to the Amendment",206,220,0,13,439
+1650920,1237770,2023-01-27,House,"On Agreeing to the Amendment",207,221,0,11,439
+1650920,1237771,2023-01-27,House,"On Agreeing to the Amendment",207,221,0,11,439
+1650920,1237772,2023-01-27,House,"On Agreeing to the Amendment",173,256,0,10,439
+1650920,1237773,2023-01-27,House,"On Agreeing to the Amendment",204,224,0,11,439
+1650920,1237774,2023-01-27,House,"On Agreeing to the Amendment",187,240,0,12,439
+1650920,1237775,2023-01-27,House,"On Agreeing to the Amendment",211,217,0,11,439
+1650920,1237776,2023-01-27,House,"On Agreeing to the Amendment",208,221,0,10,439
+1650920,1237777,2023-01-27,House,"On Agreeing to the Amendment",197,230,0,12,439
+1650920,1237778,2023-01-27,House,"On Agreeing to the Amendment",209,219,0,12,440
+1650920,1237779,2023-01-27,House,"On Agreeing to the Amendment",209,221,0,10,440
+1650920,1237780,2023-01-27,House,"On Agreeing to the Amendment",210,219,0,11,440
+1650920,1237781,2023-01-27,House,"On Agreeing to the Amendment",201,229,0,10,440
+1650920,1237782,2023-01-27,House,"On Agreeing to the Amendment",210,218,0,12,440
+1650920,1237783,2023-01-27,House,"On Agreeing to the Amendment",210,220,0,10,440
+1650920,1237784,2023-01-27,House,"On Agreeing to the Amendment",198,229,0,13,440
+1650920,1237785,2023-01-27,House,"On Agreeing to the Amendment",207,222,0,11,440
+1650947,1231305,2023-01-09,House,"On Ordering the Previous Question",211,205,0,18,434
+1650947,1231306,2023-01-09,House,"On Motion to Commit",210,220,0,4,434
+1650947,1231307,2023-01-09,House,"On Agreeing to the Resolution",220,213,0,1,434
+1650968,1241289,2023-02-01,House,"On Passage",221,206,0,6,433
+1651053,1231354,2023-01-10,House,"On Agreeing to the Resolution",365,65,0,4,434
+1651107,1231303,2023-01-09,House,"On Motion to Recommit",208,221,0,5,434
+1651107,1231304,2023-01-09,House,"On Passage",221,210,0,3,434
+1651128,1246441,2023-02-08,House,"On Agreeing to the Amendment",210,222,0,8,440
+1651128,1246442,2023-02-08,House,"On Agreeing to the Amendment",253,168,0,19,440
+1651128,1246443,2023-02-08,House,"On Agreeing to the Amendment",207,220,0,13,440
+1651128,1246444,2023-02-08,House,"On Agreeing to the Amendment",426,8,0,6,440
+1651128,1246445,2023-02-08,House,"On Agreeing to the Amendment",209,224,0,7,440
+1651128,1246446,2023-02-08,House,"On Motion to Recommit",208,220,0,6,434
+1651128,1246447,2023-02-08,House,"On Passage",227,201,0,6,434
+1651145,1236093,2023-01-25,House,"On Motion to Suspend the Rules and Agree to the Resolution, as Amended",420,1,0,13,434
+1651208,1231564,2023-01-11,House,"On Agreeing to the Resolution",222,209,0,3,434
+1651217,1235495,2023-01-24,House,"On Motion to Suspend the Rules and Pass, as Amended",422,2,0,10,434
+1655889,1344930,2023-06-15,House,"On Motion to Recommit RC# 270",210,220,0,3,433
+1655889,1344931,2023-06-15,House,"On Passage RC# 271",220,211,0,2,433
+1655900,1344395,2023-06-14,House,"On Agreeing to the Amendment RC# 257",211,223,0,5,439
+1655900,1344396,2023-06-14,House,"On Agreeing to the Amendment RC# 258",211,223,0,5,439
+1655900,1344397,2023-06-14,House,"On Agreeing to the Amendment RC# 259",207,225,0,7,439
+1655900,1344398,2023-06-14,House,"On Agreeing to the Amendment RC# 260",213,221,0,5,439
+1655900,1344399,2023-06-14,House,"On Agreeing to the Amendment RC# 261",151,285,0,3,439
+1655900,1344400,2023-06-14,House,"On Agreeing to the Amendment RC# 262",217,219,0,3,439
+1655900,1344401,2023-06-14,House,"On Agreeing to the Amendment RC# 263",219,217,0,3,439
+1655900,1344402,2023-06-14,House,"On Motion to Recommit RC# 264",210,220,0,3,433
+1655900,1344403,2023-06-14,House,"On Passage RC# 265",221,210,0,2,433
+1656498,1244229,2023-02-06,House,"On Motion to Suspend the Rules and Pass, as Amended",357,56,0,20,433
+1656613,1235499,2023-01-24,House,"On Motion to Suspend the Rules and Pass, as Amended",425,0,0,9,434
+1657887,1266996,2023-03-01,House,"On Agreeing to the Amendment RC# 125",324,83,0,32,439
+1657887,1266997,2023-03-01,House,"On Agreeing to the Amendment RC# 126",386,31,0,22,439
+1657887,1266998,2023-03-01,House,"On Agreeing to the Amendment RC# 127",181,236,0,22,439
+1657887,1266999,2023-03-01,House,"On Agreeing to the Amendment RC# 128",187,232,0,20,439
+1657887,1267000,2023-03-01,House,"On Agreeing to the Amendment RC# 129",364,56,0,19,439
+1657887,1267001,2023-03-01,House,"On Agreeing to the Amendment RC# 130",199,226,0,14,439
+1657887,1267002,2023-03-01,House,"On Passage RC# 131",272,148,0,14,434
+1657930,1356906,2023-11-01,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 561",363,46,0,23,432
+1659554,1444754,2024-05-16,House,"On Passage RC# 213",221,185,0,24,430
+1659556,1362478,2023-12-12,House,"On Motion to Recommit RC# 716",206,211,0,16,433
+1659556,1362479,2023-12-12,House,"On Passage RC# 717",218,203,0,12,433
+1659557,1357012,2023-11-06,House,"On Motion to Suspend the Rules and Pass RC# 600",359,24,0,49,432
+1664811,1239424,2023-01-31,House,"On Motion to Recommit",210,220,0,4,434
+1664811,1239425,2023-01-31,House,"On Passage",220,210,0,4,434
+1674763,1377043,2024-02-05,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 33",407,0,0,23,430
+1674772,1236099,2023-01-25,House,"On Motion to Suspend the Rules and Pass",411,13,0,10,434
+1674787,1283895,2023-03-23,House,"On Motion to Suspend the Rules and Pass RC# 148",388,33,0,14,435
+1679242,1380080,2024-02-07,House,"On Motion to Recommit RC# 39",207,210,0,14,431
+1679242,1380081,2024-02-07,House,"On Passage RC# 40",211,208,0,11,430
+1679253,1334351,2023-05-25,House,"On Agreeing to the Amendment RC# 236",190,233,0,18,441
+1679253,1334352,2023-05-25,House,"On Passage RC# 237",289,133,0,13,435
+1679272,1362305,2023-04-27,Senate,"On Cloture on the Motion to Proceed S.J.Res. 4 RC# 99",51,47,0,2,100
+1681720,1239427,2023-01-31,House,"On Motion to Recommit",210,219,0,5,434
+1681720,1239428,2023-01-31,House,"On Passage",227,203,0,4,434
+1681724,1238313,2023-01-30,House,"On Motion to Suspend the Rules and Pass",419,0,0,15,434
+1681730,1437318,2024-04-30,House,"On Passage RC# 155",402,6,0,20,428
+1681762,1242179,2023-02-02,House,"On Agreeing to the Resolution",328,86,14,6,434
+1681770,1236988,2023-01-26,Senate,"On the Resolution S.Res. 13",94,0,0,6,100
+1683991,1361984,2023-12-05,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 696",414,5,0,15,434
+1683993,1386942,2024-02-15,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 53",392,28,0,11,431
+1684000,1263301,2023-02-27,House,"On Motion to Suspend the Rules and Pass",406,12,0,15,433
+1685044,1437152,2024-04-30,House,"On Motion to Recommit RC# 166",204,211,0,14,429
+1685044,1437153,2024-04-30,House,"On Passage RC# 167",214,201,0,14,429
+1685060,1354922,2023-09-12,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 384",1,0,0,0,1
+1689539,1242136,2023-02-02,House,"On Agreeing to the Resolution",218,211,1,4,434
+1689548,1355439,2023-09-18,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 394",378,32,0,22,432
+1689573,1247895,2023-02-09,House,"On Passage",260,162,0,12,434
+1689575,1239410,2023-01-31,House,"On Ordering the Previous Question",218,209,0,6,433
+1689575,1239411,2023-01-31,House,"On Agreeing to the Resolution",216,208,0,9,433
+1689586,1356922,2023-11-01,Senate,"On Passage of the Bill H.R. 662 RC# 285",43,53,0,4,100
+1689599,1322583,2023-05-09,House,"On Motion to Suspend the Rules and Pass RC# 203",351,58,0,25,434
+1691492,1311994,2023-04-25,House,"On Motion to Suspend the Rules and Agree, as Amended RC# 193",418,0,0,16,434
+1691546,1240713,2023-02-01,Senate,"On the Resolution S.Res. 21",97,0,0,3,100
+1691550,1240714,2023-02-01,House,"On Ordering the Previous Question",219,207,0,8,434
+1691550,1240715,2023-02-01,House,"On Agreeing to the Resolution",218,209,0,7,434
+1691551,1307249,2023-04-20,House,"On Agreeing to the Amendment RC# 190",216,205,0,19,440
+1691551,1307250,2023-04-20,House,"On Motion to Recommit RC# 191",204,218,0,13,435
+1691551,1307251,2023-04-20,House,"On Passage RC# 192",219,203,0,13,435
+1694059,1350797,2023-07-17,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 330",386,22,0,25,433
+1694201,1272777,2023-03-09,House,"On Passage RC# 142",227,198,0,9,434
+1694201,1288808,2023-03-29,Senate,"On Passage of the Bill H.J.Res. 27 RC# 79",53,43,0,4,100
+1694201,1304493,2023-04-18,House,"Passage, Objections of the President To The Contrary Notwithstanding RC# 187",227,196,0,11,434
+1694203,1364177,2024-01-11,House,"On Motion to Recommit RC# 6",189,205,0,38,432
+1694203,1364178,2024-01-11,House,"On Passage RC# 7",211,197,0,24,432
+1694290,1437162,2024-04-30,House,"On Motion to Recommit RC# 168",205,210,0,14,429
+1694290,1437163,2024-04-30,House,"On Passage RC# 169",209,205,0,15,429
+1694331,1271960,2023-03-08,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 137",426,0,0,8,434
+1697492,1364261,2024-01-12,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 9",379,1,0,52,432
+1699125,1362300,2023-04-19,Senate,"On the Motion (Motion to Proceed to S.J.Res. 10) RC# 90",48,51,0,1,100
+1699129,1319165,2023-05-03,Senate,"On the Joint Resolution S.J.Res. 9 RC# 110",50,48,0,2,100
+1699129,1350977,2023-07-27,House,"On Passage RC# 381",221,206,0,7,434
+1699129,1355341,2023-09-28,Senate,"On Overriding the Veto S.J.Res. 9 RC# 242",47,46,0,7,100
+1699140,1264816,2023-02-28,House,"On Passage RC# 124",216,204,0,13,433
+1699140,1266364,2023-03-01,Senate,"On the Joint Resolution H.J.Res. 30 RC# 35",50,46,0,4,100
+1699140,1283910,2023-03-23,House,"Passage, Objections of the President To The Contrary Notwithstanding RC# 149",219,200,0,15,434
+1699166,1245444,2023-02-07,House,"On Ordering the Previous Question",217,208,0,9,434
+1699166,1245445,2023-02-07,House,"On Agreeing to the Resolution",217,208,0,9,434
+1701260,1247584,2023-02-09,House,"On Motion to Suspend the Rules and Agree",419,0,0,15,434
+1702941,1362304,2023-04-26,Senate,"On Cloture on the Motion to Proceed S. 326 RC# 97",57,42,0,1,100
+1702956,1407698,2024-03-11,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 80",326,73,0,32,431
+1703019,1312480,2023-04-26,Senate,"On the Joint Resolution S.J.Res. 11 RC# 98",50,49,0,1,100
+1703019,1332929,2023-05-23,House,"On Passage RC# 232",221,203,0,10,434
+1703019,1346405,2023-06-21,Senate,"On Overriding the Veto S.J.Res. 11 RC# 167",50,50,0,0,100
+1703022,1327294,2023-05-17,House,"On Motion to Refer RC# 217",221,204,7,3,435
+1703068,1282107,2023-03-22,Senate,"On the Amendment S.Amdt. 2 to S. 316 (No short title on file) RC# 65",9,86,0,5,100
+1703068,1282108,2023-03-22,Senate,"On the Amendment S.Amdt. 14 to S. 316 (No short title on file) RC# 66",36,60,0,4,100
+1703068,1283541,2023-03-23,Senate,"On the Amendment S.Amdt. 22 to S. 316 (No short title on file) RC# 67",19,76,0,5,100
+1703068,1283542,2023-03-23,Senate,"On the Amendment S.Amdt. 4 to S. 316 (No short title on file) RC# 68",32,63,0,5,100
+1703068,1283543,2023-03-23,Senate,"On the Amendment S.Amdt. 43 to S. 316 (No short title on file) RC# 69",41,52,0,7,100
+1703068,1287155,2023-03-28,Senate,"On the Amendment S. 316 RC# 71",47,49,0,4,100
+1703068,1287156,2023-03-28,Senate,"On the Amendment S. 316 RC# 72",31,65,0,4,100
+1703068,1287157,2023-03-28,Senate,"On the Amendment S. 316 RC# 73",41,55,0,4,100
+1703068,1287158,2023-03-28,Senate,"On the Amendment S. 316 RC# 74",38,57,0,5,100
+1703068,1287159,2023-03-28,Senate,"On the Amendment S. 316 RC# 75",33,62,0,5,100
+1703068,1287160,2023-03-28,Senate,"On the Amendment S. 316 RC# 76",26,68,0,6,100
+1703068,1289158,2023-03-29,Senate,"On Passage of the Bill S. 316 RC# 77",66,30,0,4,100
+1703068,1362316,2023-03-16,Senate,"On Cloture on the Motion to Proceed S. 316 RC# 61",68,27,0,5,100
+1703068,1362317,2023-03-21,Senate,"On the Motion to Proceed S. 316 RC# 63",67,28,0,5,100
+1703068,1362318,2023-03-27,Senate,"On the Cloture Motion S. 316 RC# 70",65,28,0,7,100
+1707900,1414449,2024-03-22,House,"On Motion to Recommit RC# 103",206,211,0,15,432
+1707900,1414450,2024-03-22,House,"On Passage RC# 104",209,204,0,19,432
+1714867,1357518,2023-11-13,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 643",405,0,0,27,432
+1714885,1331615,2023-05-22,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 228",402,2,0,30,434
+1714888,1263290,2023-02-27,House,"On Motion to Suspend the Rules and Agree",414,2,0,17,433
+1714898,1282191,2023-03-22,House,"On Motion to Suspend the Rules and Pass RC# 144",393,4,0,37,434
+1717612,1305945,2023-04-19,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 189",410,8,0,17,435
+1717615,1270949,2023-03-07,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 133",393,22,0,19,434
+1717624,1286865,2023-03-27,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 164",415,0,0,19,434
+1717638,1411587,2024-03-19,House,"On Motion to Suspend the Rules and Agree, as Amended RC# 88",390,9,0,32,431
+1717657,1362670,2023-12-13,House,"On Passage RC# 718",330,99,0,4,433
+1717662,1412805,2024-03-20,House,"On Motion to Recommit RC# 92",202,213,0,17,432
+1717662,1412806,2024-03-20,House,"On Passage RC# 93",229,188,0,15,432
+1720714,1283001,2023-03-22,House,"On Motion to Suspend the Rules and Pass RC# 145",404,7,0,23,434
+1720715,1331631,2023-05-22,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 229",400,5,0,29,434
+1720720,1324066,2023-05-11,House,"On Motion to Recommit RC# 210",210,221,0,4,435
+1720720,1324067,2023-05-11,House,"On Passage RC# 211",230,200,0,5,435
+1720743,1286029,2023-03-27,House,"On Motion to Suspend the Rules and Pass RC# 163",413,2,0,19,434
+1720748,1303059,2023-04-17,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 183",405,6,0,23,434
+1722457,1264812,2023-02-28,House,"On Ordering the Previous Question RC# 122",213,201,0,19,433
+1722457,1264813,2023-02-28,House,"On Agreeing to the Resolution RC# 123",216,205,0,13,434
+1723535,1443562,2024-05-14,House,"On Motion to Suspend the Rules and Pass RC# 196",370,18,0,42,430
+1724917,1283748,2023-03-23,House,"On Agreeing to the Amendment RC# 150",203,223,0,14,440
+1724917,1283749,2023-03-23,House,"On Agreeing to the Amendment RC# 151",61,365,0,14,440
+1724917,1283750,2023-03-23,House,"On Agreeing to the Amendment RC# 152",89,338,0,13,440
+1724917,1283751,2023-03-23,House,"On Agreeing to the Amendment RC# 153",386,39,0,15,440
+1724917,1284907,2023-03-24,House,"On Agreeing to the Amendment RC# 154",420,5,0,15,440
+1724917,1284908,2023-03-24,House,"On Agreeing to the Amendment RC# 155",203,217,0,21,441
+1724917,1284909,2023-03-24,House,"On Agreeing to the Amendment RC# 156",161,265,0,15,441
+1724917,1284910,2023-03-24,House,"On Agreeing to the Amendment RC# 157",107,317,0,16,440
+1724917,1284911,2023-03-24,House,"On Agreeing to the Amendment RC# 158",113,311,0,16,440
+1724917,1284912,2023-03-24,House,"On Agreeing to the Amendment RC# 159",83,331,0,26,440
+1724917,1284913,2023-03-24,House,"On Motion to Recommit RC# 160",203,218,0,13,434
+1724917,1284914,2023-03-24,House,"On Passage RC# 161",213,208,0,14,435
+1724918,1272271,2023-03-08,House,"On Agreeing to the Resolution RC# 136",103,321,0,11,435
+1727214,1312694,2023-04-26,House,"On Motion to Suspend the Rules and Pass RC# 200",409,11,0,15,435
+1727229,1312953,2023-04-26,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 197",422,1,0,11,434
+1727242,1350938,2023-07-25,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 365",250,163,1,19,433
+1729811,1315039,2023-04-28,House,"On Passage RC# 202",221,202,0,12,435
+1729811,1318246,2023-05-03,Senate,"On the Joint Resolution H.J.Res. 39 RC# 109",56,41,0,3,100
+1729811,1332931,2023-05-24,House,"Passage, Objections of the President To The Contrary Notwithstanding RC# 233",214,205,0,16,435
+1729816,1272389,2023-03-08,House,"On Ordering the Previous Question RC# 134",217,205,0,12,434
+1729816,1272390,2023-03-08,House,"On Agreeing to the Resolution, as Amended RC# 135",216,206,0,12,434
+1731414,1327377,2023-05-17,Senate,"On the Joint Resolution S.J.Res. 18 RC# 130",50,47,0,3,100
+1732006,1355350,2023-09-14,House,"On Motion to Recommit RC# 390",193,212,0,28,433
+1732006,1355351,2023-09-14,House,"On Passage RC# 391",222,190,0,22,434
+1732966,1305873,2023-04-19,House,"On Passage RC# 188",229,189,0,17,435
+1732966,1326169,2023-05-16,Senate,"On the Joint Resolution H.J.Res. 42 RC# 126",56,43,0,1,100
+1732966,1343898,2023-06-13,House,"Passage, Objections of the President To The Contrary Notwithstanding RC# 253",233,197,0,4,434
+1737357,1361982,2023-12-05,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 694",356,61,0,16,433
+1737362,1355352,2023-09-20,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 401",423,0,0,10,433
+1737373,1350572,2023-07-11,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 290",398,11,0,24,433
+1737407,1354908,2023-09-13,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 386",1,0,0,0,1
+1741370,1345879,2023-06-20,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 272",407,0,0,26,433
+1741372,1289042,2023-03-29,House,"On Agreeing to the Amendment RC# 167",221,208,0,11,440
+1741372,1289043,2023-03-29,House,"On Agreeing to the Amendment RC# 168",228,206,0,6,440
+1741372,1289044,2023-03-29,House,"On Agreeing to the Amendment RC# 169",245,189,0,6,440
+1741372,1289045,2023-03-29,House,"On Agreeing to the Amendment RC# 170",268,163,0,9,440
+1741372,1289046,2023-03-29,House,"On Agreeing to the Amendment RC# 171",251,181,0,8,440
+1741372,1289047,2023-03-29,House,"On Agreeing to the Amendment RC# 172",210,223,0,7,440
+1741372,1289048,2023-03-29,House,"On Agreeing to the Amendment RC# 173",96,336,0,8,440
+1741372,1290284,2023-03-30,House,"On Agreeing to the Amendment RC# 174",407,26,0,7,440
+1741372,1290285,2023-03-30,House,"On Agreeing to the Amendment RC# 175",323,109,0,8,440
+1741372,1290286,2023-03-30,House,"On Agreeing to the Amendment RC# 176",205,228,0,7,440
+1741372,1290287,2023-03-30,House,"On Agreeing to the Amendment RC# 177",405,24,0,11,440
+1741372,1290288,2023-03-30,House,"On Agreeing to the Amendment RC# 178",201,230,0,9,440
+1741372,1290289,2023-03-30,House,"On Agreeing to the Amendment RC# 179",244,189,0,7,440
+1741372,1290290,2023-03-30,House,"On Agreeing to the Amendment RC# 180",220,213,0,7,440
+1741372,1290291,2023-03-30,House,"On Motion to Recommit RC# 181",207,222,0,6,435
+1741372,1290292,2023-03-30,House,"On Passage RC# 182",225,204,0,6,435
+1741413,1356981,2023-11-06,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 599",384,1,0,47,432
+1743524,1304603,2023-04-18,Senate,"On the Amendment S.Amdt. 80 to S. 870 (No short title on file) RC# 87",49,50,0,1,100
+1743524,1307111,2023-04-20,Senate,"On the Amendment S.Amdt. 85 to S. 870 (No short title on file) RC# 92",46,51,0,3,100
+1743524,1307112,2023-04-20,Senate,"On the Amendment S.Amdt. 83 to S. 870 (No short title on file) RC# 93",42,56,0,2,100
+1743524,1307113,2023-04-20,Senate,"On Passage of the Bill S. 870 RC# 94",95,2,0,3,100
+1743524,1362303,2023-03-29,Senate,"On Cloture on the Motion to Proceed S. 870 RC# 78",96,0,0,4,100
+1743524,1363307,2023-04-19,Senate,"On the Amendment S.Amdt. 81 to S. 870 (No short title on file) RC# 1",47,49,0,4,100
+1743524,1363308,2023-04-19,Senate,"On the Amendment S.Amdt. 72 to S. 870 (No short title on file) RC# 8",45,54,0,1,100
+1743524,1363309,2023-04-19,Senate,"On the Amendment S.Amdt. 79 to S. 870 (No short title on file) RC# 88",45,54,0,1,100
+1743524,1441502,2024-05-08,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 194",393,13,1,23,430
+1743912,1343947,2023-06-13,House,"On Agreeing to the Amendment RC# 254",222,210,0,7,439
+1743912,1343948,2023-06-13,House,"On Passage RC# 255",248,180,0,5,433
+1743932,1284868,2023-03-24,House,"On Motion to Suspend the Rules and Agree RC# 162",405,0,0,30,435
+1743936,1344418,2023-06-14,House,"On Agreeing to the Amendment RC# 266",207,224,0,8,439
+1743936,1344419,2023-06-14,House,"On Agreeing to the Amendment RC# 267",209,225,0,5,439
+1743936,1344420,2023-06-14,House,"On Passage RC# 268",249,181,0,3,433
+1743955,1343907,2023-06-13,House,"On Passage RC# 252",219,210,0,5,434
+1743955,1347080,2023-06-22,Senate,"On the Joint Resolution H.J.Res. 44 RC# 171",49,50,0,1,100
+1745344,1332950,2023-05-24,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 235",409,9,0,17,435
+1745364,1303493,2023-04-17,House,"On Motion to Suspend the Rules and Agree, as Amended RC# 184",410,0,0,24,434
+1746062,1283726,2023-03-23,House,"On Ordering the Previous Question RC# 146",219,204,0,12,435
+1746062,1283727,2023-03-23,House,"On Agreeing to the Resolution RC# 147",218,205,0,12,435
+1746098,1321879,2023-05-09,House,"On Motion to Suspend the Rules and Pass RC# 204",356,50,0,28,434
+1746107,1378448,2024-02-06,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 36",427,2,0,2,431
+1746991,1437159,2024-04-30,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 161",406,6,0,16,428
+1746999,1407592,2024-03-11,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 79",375,20,0,37,432
+1747690,1443707,2024-05-15,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 209",378,34,0,18,430
+1748493,1332952,2023-05-24,House,"On Passage RC# 234",218,203,0,14,435
+1748493,1337371,2023-06-01,Senate,"On the Joint Resolution H.J.Res. 45 RC# 135",52,46,0,2,100
+1748493,1346470,2023-06-21,House,"Passage, Objections of the President To The Contrary Notwithstanding RC# 277",221,206,0,7,434
+1748493,1362614,2023-05-31,Senate,"On the Motion (Motion to Proceed to H.J. Res. 45) RC# 134",51,46,0,3,100
+1749188,1414053,2024-03-21,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 98",393,24,0,14,431
+1749199,1313963,2023-04-27,House,"On Agreeing to the Resolution RC# 201",102,321,0,11,434
+1749204,1287220,2023-03-28,House,"On Ordering the Previous Question RC# 165",218,203,0,13,434
+1749204,1287221,2023-03-28,House,"On Agreeing to the Resolution RC# 166",218,203,0,13,434
+1750566,1362839,2023-12-14,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 724",407,9,0,18,434
+1751362,1324057,2023-05-11,Senate,"On the Joint Resolution S.J.Res. 23 RC# 122",51,49,0,0,100
+1751365,1324069,2023-05-11,Senate,"On the Joint Resolution S.J.Res. 24 RC# 123",51,49,0,0,100
+1751365,1350963,2023-07-27,House,"On Passage RC# 382",220,209,0,4,433
+1751365,1355343,2023-09-28,Senate,"On Overriding the Veto S.J.Res. 24 RC# 243",47,45,0,8,100
+1754056,1327223,2023-05-17,House,"On Agreeing to the Amendment RC# 223",303,126,0,11,440
+1754056,1327224,2023-05-17,House,"On Agreeing to the Amendment RC# 224",209,225,0,7,441
+1754056,1327225,2023-05-17,House,"On Passage RC# 225",255,175,0,5,435
+1754486,1426032,2024-04-11,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 111",332,82,0,16,430
+1755613,1429248,2024-04-16,House,"On Motion to Suspend the Rules and Agree RC# 133",411,14,0,6,431
+1756197,1304607,2023-04-18,House,"On Ordering the Previous Question RC# 185",218,203,0,13,434
+1756197,1304608,2023-04-18,House,"On Agreeing to the Resolution RC# 186",217,202,0,15,434
+1758028,1310698,2023-04-25,House,"On Motion to Suspend the Rules and Agree RC# 194",401,19,0,15,435
+1758039,1386501,2024-02-15,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 50",414,6,0,10,430
+1758040,1336252,2023-05-30,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 238",367,8,0,60,435
+1758051,1340314,2023-06-05,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 245",384,13,0,36,433
+1758613,1405976,2024-03-07,House,"On Agreeing to the Amendment: Huizenga of Michigan Part B Amendment No. 2 RC# 6",269,153,0,15,437
+1758613,1405977,2024-03-07,House,"On Agreeing to the Amendment: Lawler of New York Part B Amendment No. 1 RC# 68",278,146,0,13,437
+1758613,1405978,2024-03-07,House,"On Agreeing to the Amendment: Lucas of Oklahoma Part B Amendment No. 3 RC# 70",301,125,0,11,437
+1758613,1405979,2024-03-07,House,"On Agreeing to the Amendment: Wagner of Missouri Part B Amendment No. 4 RC# 71",270,154,0,13,437
+1758613,1405980,2024-03-07,House,"On Agreeing to the Amendment: Sherman of California Part B Amendment No. 5 RC# 72",203,223,0,11,437
+1758613,1406596,2024-03-08,House,"On Agreeing to the Amendment: Houlahan of Pennsylvania Part B Amendment No. 6 RC# 73",200,203,0,34,437
+1758613,1406597,2024-03-08,House,"On Agreeing to the Amendment: Tlaib of Michigan Part B Amendment No. 7 RC# 74",204,212,0,21,437
+1758613,1406598,2024-03-08,House,"On Agreeing to the Amendment: Lynch of Massachusetts Part B Amendment No. 8 RC# 75",208,211,0,18,437
+1758613,1406599,2024-03-08,House,"On Agreeing to the Amendment: Waters of California Part B Amendment No. 9 RC# 76",206,217,0,15,438
+1758613,1406600,2024-03-08,House,"On Motion to Recommit RC# 77",205,213,0,14,432
+1758613,1406601,2024-03-08,House,"On Passage RC# 78",212,205,0,15,432
+1758620,1336178,2023-05-30,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 239",347,30,0,58,435
+1758623,1336699,2023-05-31,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 244",383,18,0,34,435
+1758625,1335994,2023-05-30,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 240",309,67,0,58,434
+1759097,1312276,2023-04-26,House,"On Motion to Recommit RC# 198",211,221,0,3,435
+1759097,1312277,2023-04-26,House,"On Passage RC# 199",217,215,0,3,435
+1759115,1340310,2023-06-05,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 246",390,10,0,33,433
+1759636,1312256,2023-04-26,House,"On Ordering the Previous Question RC# 195",218,210,0,6,434
+1759636,1312257,2023-04-26,House,"On Agreeing to the Resolution RC# 196",219,210,0,5,434
+1759950,1438027,2024-05-01,House,"On Motion to Recommit RC# 175",210,204,0,15,429
+1759950,1441536,2024-05-08,House,"On Motion to Recommit RC# 190",203,208,0,19,430
+1759950,1441537,2024-05-08,House,"On Passage RC# 191",216,195,0,19,430
+1760186,1430236,2024-04-16,House,"On Motion to Suspend the Rules and Pass RC# 132",407,16,0,8,431
+1760974,1324059,2023-05-11,House,"On Motion to Recommit RC# 208",211,221,0,3,435
+1760974,1324060,2023-05-11,House,"On Passage RC# 209",219,213,0,3,435
+1761751,1329272,2023-05-18,House,"On Agreeing to the Amendment RC# 226",268,156,0,10,434
+1761751,1329273,2023-05-18,House,"On Agreeing to the Resolution RC# 227",301,119,3,11,434
+1761754,1325132,2023-05-15,House,"On Motion to Suspend the Rules and Agree, as Amended RC# 214",413,2,0,20,435
+1761761,1343999,2023-06-13,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 251",413,13,0,7,433
+1761769,1325485,2023-05-15,House,"On Motion to Suspend the Rules and Pass RC# 213",412,0,0,23,435
+1761796,1327232,2023-05-17,House,"On Agreeing to the Amendment RC# 218",216,219,0,5,440
+1761796,1327233,2023-05-17,House,"On Agreeing to the Amendment RC# 219",248,184,0,8,440
+1761796,1327234,2023-05-17,House,"On Agreeing to the Amendment RC# 220",232,202,0,6,440
+1761796,1327235,2023-05-17,House,"On Agreeing to the Amendment RC# 221",218,217,0,6,441
+1761796,1327236,2023-05-17,House,"On Passage RC# 222",232,198,0,4,434
+1762919,1336792,2023-05-31,House,"On Motion to Suspend the Rules and Agree, as Amended RC# 242",429,0,0,6,435
+1762922,1344041,2023-06-13,House,"On Motion to Suspend the Rules and Agree, as Amended RC# 256",422,0,0,11,433
+1762957,1354940,2023-09-12,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 383",1,0,0,0,1
+1763425,1437310,2024-04-30,House,"On Motion to Recommit RC# 170",205,210,0,14,429
+1763425,1437311,2024-04-30,House,"On Passage RC# 171",212,203,0,14,429
+1763446,1323104,2023-05-10,House,"On Ordering the Previous Question RC# 205",215,211,0,9,435
+1763446,1323105,2023-05-10,House,"On Agreeing to the Amendment RC# 206",236,190,0,9,435
+1763446,1323106,2023-05-10,House,"On Agreeing to the Resolution RC# 207",215,209,0,11,435
+1763995,1425553,2024-04-10,House,"On Motion to Suspend the Rules and Pass RC# 109",385,31,0,15,431
+1764043,1362392,2023-12-11,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 707",394,0,0,39,433
+1764087,1385393,2024-02-14,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 49",389,32,0,10,431
+1764751,1326280,2023-05-16,House,"On Ordering the Previous Question RC# 215",220,209,0,5,434
+1764751,1326281,2023-05-16,House,"On Agreeing to the Resolution RC# 216",222,203,0,9,434
+1764752,1354946,2023-09-13,House,"On Motion to Suspend the Rules and Pass RC# 387",0,0,0,1,1
+1764759,1441125,2024-05-07,House,"On Motion to Suspend the Rules and Pass RC# 179",371,28,3,27,429
+1765351,1403795,2024-03-05,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 60",384,4,0,44,432
+1766014,1437320,2024-04-30,House,"On Motion to Recommit RC# 164",204,210,0,15,429
+1766014,1437321,2024-04-30,House,"On Passage RC# 165",212,202,0,15,429
+1767443,1332428,2023-05-23,House,"On Ordering the Previous Question RC# 230",219,208,0,8,435
+1767443,1332429,2023-05-23,House,"On Agreeing to the Resolution RC# 231",217,204,0,14,435
+1767456,1347373,2023-06-23,House,"On Agreeing to the Amendment RC# 287",204,216,0,19,439
+1767456,1347374,2023-06-23,House,"On Motion to Recommit RC# 288",197,214,0,22,433
+1767456,1347375,2023-06-23,House,"On Passage RC# 289",230,189,0,14,433
+1767875,1431750,2024-04-20,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 143",215,199,0,17,431
+1768756,1437166,2024-04-30,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 159",403,10,0,15,428
+1769381,1336606,2023-05-31,House,"On Agreeing to the Resolution RC# 241",241,187,0,7,435
+1769577,1356931,2023-11-03,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 598",342,69,0,22,433
+1769822,1347163,2023-06-22,House,"On Agreeing to the Resolution RC# 286",223,201,0,10,434
+1770204,1405106,2024-03-06,House,"On Motion to Suspend the Rules and Pass RC# 65",413,7,0,12,432
+1770224,1340388,2023-06-06,House,"On Ordering the Previous Question RC# 247",215,203,0,16,434
+1770224,1340389,2023-06-06,House,"On Agreeing to the Resolution RC# 248",206,220,0,8,434
+1770233,1346426,2023-06-21,House,"On Agreeing to the Amendment RC# 278",211,220,0,9,440
+1770233,1346427,2023-06-21,House,"On Agreeing to the Amendment RC# 279",281,151,0,7,439
+1770233,1346428,2023-06-21,House,"On Agreeing to the Amendment RC# 280",228,206,0,6,440
+1770233,1346429,2023-06-21,House,"On Motion to Recommit RC# 281",209,220,0,5,434
+1770233,1346430,2023-06-21,House,"On Passage RC# 282",220,209,0,5,434
+1770513,1361979,2023-12-05,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 695",408,10,0,15,433
+1770533,1403794,2024-03-05,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 61",382,12,0,38,432
+1770538,1405985,2024-03-07,House,"On Motion to Suspend the Rules and Pass RC# 67",391,32,0,9,432
+1771171,1355356,2023-09-18,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 392",410,0,0,22,432
+1771174,1350868,2023-07-19,House,"On Agreeing to the Amendment RC# 341",243,191,0,6,440
+1771174,1350869,2023-07-19,House,"On Agreeing to the Amendment RC# 342",203,231,0,6,440
+1771174,1350870,2023-07-19,House,"On Agreeing to the Amendment RC# 343",392,41,0,7,440
+1771174,1350871,2023-07-19,House,"On Agreeing to the Amendment RC# 344",193,236,0,11,440
+1771174,1350872,2023-07-19,House,"On Agreeing to the Amendment RC# 345",177,258,0,5,440
+1771174,1350873,2023-07-19,House,"On Agreeing to the Amendment RC# 346",141,294,0,5,440
+1771174,1350874,2023-07-19,House,"On Agreeing to the Amendment RC# 347",220,215,0,5,440
+1771174,1350875,2023-07-19,House,"On Agreeing to the Amendment RC# 348",214,219,0,7,440
+1771174,1350876,2023-07-19,House,"On Agreeing to the Amendment RC# 349",211,224,0,5,440
+1771174,1350877,2023-07-19,House,"On Agreeing to the Amendment RC# 350",240,195,0,5,440
+1771174,1350878,2023-07-19,House,"On Agreeing to the Amendment RC# 351",49,386,0,5,440
+1771174,1350879,2023-07-19,House,"On Agreeing to the Amendment RC# 352",216,219,0,5,440
+1771174,1350880,2023-07-19,House,"On Agreeing to the Amendment RC# 353",181,254,0,5,440
+1771174,1350881,2023-07-19,House,"On Agreeing to the Amendment RC# 354",229,205,0,6,440
+1771174,1350882,2023-07-19,House,"On Agreeing to the Amendment RC# 355",191,244,0,5,440
+1771174,1350883,2023-07-19,House,"On Agreeing to the Amendment RC# 356",206,227,0,7,440
+1771174,1350884,2023-07-19,House,"On Agreeing to the Amendment RC# 357",205,229,0,6,440
+1771174,1350885,2023-07-19,House,"On Agreeing to the Amendment RC# 358",127,308,0,5,440
+1771174,1350886,2023-07-19,House,"On Agreeing to the Amendment RC# 359",52,381,0,7,440
+1771174,1350887,2023-07-19,House,"On Agreeing to the Amendment RC# 360",45,387,0,8,440
+1771174,1350899,2023-07-20,House,"On Agreeing to the Amendment RC# 361",348,57,0,34,439
+1771174,1350900,2023-07-20,House,"On Agreeing to the Amendment RC# 362",64,329,0,46,439
+1771174,1350901,2023-07-20,House,"On Agreeing to the Amendment RC# 363",195,226,0,18,439
+1771174,1350902,2023-07-20,House,"On Passage RC# 364",351,69,0,13,433
+1771174,1362329,2023-09-26,Senate,"On the Cloture Motion H.R. 3935 RC# 240",77,19,0,4,100
+1771174,1362330,2023-09-28,Senate,"On the Motion to Proceed H.R. 3935 RC# 241",76,22,0,2,100
+1771174,1437908,2024-05-01,Senate,"On Cloture on the Motion to Proceed H.R. 3935 RC# 157",89,10,0,1,100
+1771174,1438886,2024-05-02,Senate,"On the Motion to Proceed H.R. 3935 RC# 158",81,10,0,9,100
+1771174,1441549,2024-05-08,Senate,"On the Motion to Table H.R. 3935 RC# 160",12,85,0,3,100
+1771174,1442062,2024-05-09,Senate,"On the Cloture Motion H.R. 3935 RC# 161",84,13,0,3,100
+1771174,1442063,2024-05-09,Senate,"On Passage of the Bill H.R. 3935 RC# 162",88,4,0,8,100
+1771196,1354947,2023-09-12,House,"On Motion to Suspend the Rules and Agree RC# 385",1,0,0,0,1
+1771199,1350893,2023-07-19,House,"On Motion to Recommit RC# 339",200,212,0,22,434
+1771199,1350894,2023-07-19,House,"On Passage RC# 340",222,201,0,11,434
+1771207,1344314,2023-06-14,House,"On Motion to Table RC# 269",225,196,7,5,433
+1771226,1443674,2024-05-15,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 212",388,24,0,18,430
+1771314,1343954,2023-06-13,House,"On Ordering the Previous Question RC# 249",216,209,0,8,433
+1771314,1343955,2023-06-13,House,"On Agreeing to the Resolution RC# 250",218,209,0,6,433
+1771319,1350843,2023-07-18,House,"On Passage RC# 334",30,388,0,15,433
+1771321,1350852,2023-07-18,House,"On Passage RC# 333",27,381,0,25,433
+1771373,1437375,2024-04-30,House,"On Motion to Suspend the Rules and Pass RC# 160",413,0,0,15,428
+1771497,1356296,2023-10-18,Senate,"On the Joint Resolution S.J.Res. 32 RC# 260",53,44,0,3,100
+1771497,1358060,2023-12-01,House,"On Passage RC# 690",221,202,1,10,434
+1771497,1364014,2024-01-10,Senate,"On Overriding the Veto S.J.Res. 32 RC# 5",54,45,0,1,100
+1771798,1350849,2023-07-18,House,"On Passage RC# 336",26,394,0,13,433
+1772165,1441514,2024-05-08,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 195",358,41,0,30,429
+1772187,1350844,2023-07-18,House,"On Passage RC# 335",27,393,0,13,433
+1772269,1346458,2023-06-21,House,"On Motion to Table RC# 276",208,218,0,8,434
+1772269,1346459,2023-06-21,House,"On Agreeing to the Resolution RC# 283",213,209,6,6,434
+1772425,1424148,2024-04-09,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 106",406,0,0,24,430
+1772467,1346403,2023-06-21,House,"On Ordering the Previous Question RC# 274",215,207,0,11,433
+1772467,1346404,2023-06-21,House,"On Agreeing to the Resolution RC# 275",215,211,0,8,434
+1772640,1347084,2023-06-22,House,"On Ordering the Previous Question RC# 284",214,206,0,14,434
+1772640,1347085,2023-06-22,House,"On Agreeing to the Resolution RC# 285",219,208,0,7,434
+1772808,1443783,2024-05-15,House,"On Motion to Suspend the Rules and Pass RC# 206",376,33,0,20,429
+1773268,1355370,2023-09-27,House,"On Agreeing to the Amendment RC# 408",175,254,0,10,439
+1773268,1355371,2023-09-27,House,"On Agreeing to the Amendment RC# 409",119,307,0,13,439
+1773268,1355372,2023-09-27,House,"On Agreeing to the Amendment RC# 410",106,323,0,10,439
+1773268,1355373,2023-09-27,House,"On Agreeing to the Amendment RC# 411",86,343,0,10,439
+1773268,1355374,2023-09-27,House,"On Agreeing to the Amendment RC# 412",89,341,0,9,439
+1773268,1355375,2023-09-27,House,"On Agreeing to the Amendment RC# 413",68,362,0,9,439
+1773268,1355376,2023-09-27,House,"On Agreeing to the Amendment RC# 414",83,348,0,8,439
+1773268,1355377,2023-09-27,House,"On Agreeing to the Amendment RC# 415",81,350,0,8,439
+1773268,1355378,2023-09-27,House,"On Agreeing to the Amendment RC# 416",105,325,0,9,439
+1773268,1355379,2023-09-27,House,"On Agreeing to the Amendment RC# 417",49,377,0,13,439
+1773268,1355380,2023-09-27,House,"On Agreeing to the Amendment RC# 418",210,216,0,13,439
+1773268,1355381,2023-09-27,House,"On Agreeing to the Amendment RC# 419",97,336,0,6,439
+1773268,1355382,2023-09-27,House,"On Agreeing to the Amendment RC# 420",152,278,0,9,439
+1773268,1355383,2023-09-27,House,"On Agreeing to the Amendment RC# 421",217,214,0,8,439
+1773268,1355384,2023-09-27,House,"On Agreeing to the Amendment RC# 422",158,272,0,9,439
+1773268,1355385,2023-09-27,House,"On Agreeing to the Amendment RC# 423",159,272,0,8,439
+1773268,1355386,2023-09-27,House,"On Agreeing to the Amendment RC# 424",156,273,0,10,439
+1773268,1355387,2023-09-27,House,"On Agreeing to the Amendment RC# 425",161,270,0,8,439
+1773268,1355388,2023-09-27,House,"On Agreeing to the Amendment RC# 426",160,271,0,8,439
+1773268,1355389,2023-09-27,House,"On Agreeing to the Amendment RC# 427",163,267,0,9,439
+1773268,1355390,2023-09-27,House,"On Agreeing to the Amendment RC# 428",217,216,0,6,439
+1773268,1355391,2023-09-27,House,"On Agreeing to the Amendment RC# 429",217,216,0,6,439
+1773268,1355392,2023-09-27,House,"On Agreeing to the Amendment RC# 430",71,362,0,6,439
+1773268,1355393,2023-09-28,House,"On Motion to Recommit RC# 506",211,217,0,5,433
+1773268,1355394,2023-09-28,House,"On Passage RC# 507",191,237,0,5,433
+1773270,1356927,2023-11-01,House,"On Motion to Recommit RC# 562",201,209,0,22,432
+1773270,1356928,2023-11-01,House,"On Passage RC# 563",214,197,0,22,433
+1773272,1363274,2023-09-27,House,"On Agreeing to the Amendment: Biggs of Arizona Part B Amendment No. 42 RC# 44",164,265,0,9,438
+1773272,1363275,2023-09-27,House,"On Agreeing to the Amendment: Correa of California Part B Amendment No. 13 RC# 442",206,223,0,10,439
+1773272,1363276,2023-09-27,House,"On Agreeing to the Amendment: Wasserman Schultz of Florida Part B Amendment No. 23 RC# 443",209,220,0,10,439
+1773272,1363277,2023-09-27,House,"On Agreeing to the Amendment: Escobar of Texas Part B Amendment No. 25 RC# 444",210,220,0,9,439
+1773272,1363278,2023-09-27,House,"On Agreeing to the Amendment: Clyde of Georgia Part B Amendment No. 29 RC# 445",108,320,0,10,438
+1773272,1363279,2023-09-27,House,"On Agreeing to the Amendment: Biggs of Arizona Part B Amendment No. 39 RC# 446",147,282,0,9,438
+1773272,1363280,2023-09-27,House,"On Agreeing to the Amendment: Biggs of Arizona Part B Amendment No. 40 RC# 447",160,270,0,8,438
+1773272,1363281,2023-09-27,House,"On Agreeing to the Amendment: Biggs of Arizona Part B Amendment No. 41 RC# 448",168,261,0,9,438
+1773272,1363282,2023-09-27,House,"On Agreeing to the Amendment: Biggs of Arizona Part B Amendment No. 43 RC# 450",162,264,0,12,438
+1773272,1363283,2023-09-27,House,"On Agreeing to the Amendment: Boebert of Colorado Part B Amendment No. 48 RC# 451",159,269,0,10,438
+1773272,1363284,2023-09-27,House,"On Agreeing to the Amendment: Boebert of Colorado Part B Amendment No. 49 RC# 452",161,267,0,10,438
+1773272,1363285,2023-09-27,House,"On Agreeing to the Amendment: Boebert of Colorado Part B Amendment No. 50 RC# 453",161,268,0,9,438
+1773272,1363286,2023-09-27,House,"On Agreeing to the Amendment: Castro of Texas Part B Amendment No. 51 RC# 454",211,220,0,8,439
+1773272,1363287,2023-09-27,House,"On Agreeing to the Amendment: Nehls of Texas Part B Amendment No. 64 RC# 455",182,247,0,9,438
+1773272,1363288,2023-09-28,House,"On Motion to Recommit RC# 504",210,218,0,5,433
+1773272,1363289,2023-09-28,House,"On Passage RC# 505",220,208,0,5,433
+1773284,1355357,2023-09-27,House,"On Agreeing to the Amendment RC# 431",240,191,0,8,439
+1773284,1355358,2023-09-27,House,"On Agreeing to the Amendment RC# 432",104,330,0,5,439
+1773284,1355359,2023-09-27,House,"On Agreeing to the Amendment RC# 433",203,231,0,5,439
+1773284,1355360,2023-09-27,House,"On Agreeing to the Amendment RC# 434",150,282,0,7,439
+1773284,1355361,2023-09-27,House,"On Agreeing to the Amendment RC# 435",184,248,0,7,439
+1773284,1355362,2023-09-27,House,"On Agreeing to the Amendment RC# 436",172,261,0,6,439
+1773284,1355363,2023-09-27,House,"On Agreeing to the Amendment RC# 437",215,218,0,6,439
+1773284,1355364,2023-09-27,House,"On Agreeing to the Amendment RC# 438",93,339,0,7,439
+1773284,1355365,2023-09-27,House,"On Agreeing to the Amendment RC# 439",160,269,0,10,439
+1773284,1355366,2023-09-27,House,"On Agreeing to the Amendment RC# 440",176,258,0,5,439
+1773284,1355367,2023-09-27,House,"On Agreeing to the Amendment RC# 441",202,231,0,6,439
+1773284,1355368,2023-09-28,House,"On Motion to Recommit RC# 501",210,218,0,5,433
+1773284,1355369,2023-09-28,House,"On Passage RC# 502",218,210,0,5,433
+1773289,1356923,2023-11-01,House,"On Motion to Suspend the Rules and Agree RC# 560",354,53,0,25,432
+1773669,1356621,2023-10-26,House,"On Agreeing to the Amendment RC# 529",156,265,0,17,438
+1773669,1356622,2023-10-26,House,"On Agreeing to the Amendment RC# 530",277,142,0,19,438
+1773669,1356623,2023-10-26,House,"On Agreeing to the Amendment RC# 531",212,213,0,13,438
+1773669,1356624,2023-10-26,House,"On Agreeing to the Amendment RC# 532",161,257,0,20,438
+1773669,1356625,2023-10-26,House,"On Agreeing to the Amendment RC# 533",137,287,0,14,438
+1773669,1356626,2023-10-26,House,"On Agreeing to the Amendment RC# 534",135,284,0,19,438
+1773669,1356627,2023-10-26,House,"On Agreeing to the Amendment RC# 535",105,319,0,14,438
+1773669,1356628,2023-10-26,House,"On Agreeing to the Amendment RC# 536",115,306,0,17,438
+1773669,1356629,2023-10-26,House,"On Agreeing to the Amendment RC# 537",123,300,0,15,438
+1773669,1356630,2023-10-26,House,"On Agreeing to the Amendment RC# 538",137,283,0,18,438
+1773669,1356631,2023-10-26,House,"On Agreeing to the Amendment RC# 539",105,316,0,17,438
+1773669,1356632,2023-10-26,House,"On Agreeing to the Amendment RC# 540",134,283,0,21,438
+1773669,1356633,2023-10-26,House,"On Agreeing to the Amendment RC# 541",122,299,0,17,438
+1773669,1356634,2023-10-26,House,"On Agreeing to the Amendment RC# 542",130,287,0,21,438
+1773669,1356635,2023-10-26,House,"On Agreeing to the Amendment RC# 543",122,295,0,21,438
+1773669,1356636,2023-10-26,House,"On Agreeing to the Amendment RC# 544",116,303,0,19,438
+1773669,1356637,2023-10-26,House,"On Agreeing to the Amendment RC# 545",121,299,0,18,438
+1773669,1356638,2023-10-26,House,"On Agreeing to the Amendment RC# 546",176,241,0,21,438
+1773669,1356639,2023-10-26,House,"On Agreeing to the Amendment RC# 547",120,291,0,27,438
+1773669,1356640,2023-10-26,House,"On Agreeing to the Amendment RC# 548",207,204,0,28,439
+1773669,1356641,2023-10-26,House,"On Agreeing to the Amendment RC# 549",208,209,0,22,439
+1773669,1356642,2023-10-26,House,"On Agreeing to the Amendment RC# 550",207,204,0,22,433
+1773669,1356643,2023-10-26,House,"On Agreeing to the Amendment RC# 551",166,247,0,26,439
+1773669,1356644,2023-10-26,House,"On Agreeing to the Amendment RC# 552",160,250,0,29,439
+1773669,1356645,2023-10-26,House,"On Agreeing to the Amendment RC# 553",164,249,0,26,439
+1773669,1356646,2023-10-26,House,"On Agreeing to the Amendment RC# 554",100,314,0,25,439
+1773669,1356647,2023-10-26,House,"On Agreeing to the Amendment RC# 555",76,335,0,27,438
+1773669,1356648,2023-10-26,House,"On Agreeing to the Amendment RC# 556",192,222,0,25,439
+1773669,1356649,2023-10-26,House,"On Motion to Recommit RC# 557",199,210,0,23,432
+1773669,1356650,2023-10-26,House,"On Passage RC# 558",210,199,0,24,433
+1773820,1350928,2023-07-25,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 366",409,1,0,23,433
+1773827,1362040,2023-12-06,House,"On Motion to Recommit RC# 702",201,214,0,18,433
+1773827,1362041,2023-12-06,House,"On Passage RC# 703",221,197,0,15,433
+1773845,1350850,2023-07-18,House,"On Passage RC# 337",24,394,0,15,433
+1774090,1355510,2023-10-02,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 515",394,1,0,38,433
+1774093,1443788,2024-05-15,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 205",374,36,0,20,430
+1774177,1350889,2023-07-19,Senate,"On the Amendment S.Amdt. 300 to S.Amdt. 935 to S. 2226 (No short title on file) RC# 189",96,2,0,2,100
+1774177,1350890,2023-07-19,Senate,"On the Amendment S.Amdt. 429 to S.Amdt. 935 to S. 2226 (No short title on file) RC# 190",65,28,0,7,100
+1774177,1350891,2023-07-19,Senate,"On the Amendment S.Amdt. 222 to S.Amdt. 935 to S. 2226 (No short title on file) RC# 191",16,83,0,1,100
+1774177,1350892,2023-07-19,Senate,"On the Amendment S.Amdt. 838 to S.Amdt. 935 to S. 2226 (No short title on file) RC# 192",39,60,0,1,100
+1774177,1350896,2023-07-20,Senate,"On the Amendment S.Amdt. 926 to S.Amdt. 935 to S. 2226 (No short title on file) RC# 194",85,14,0,1,100
+1774177,1350897,2023-07-20,Senate,"On the Amendment S.Amdt. 376 to S.Amdt. 935 to S. 2226 (No short title on file) RC# 195",13,71,0,16,100
+1774177,1350925,2023-07-25,Senate,"On the Amendment S.Amdt. 931 to S.Amdt. 935 to S. 2226 (No short title on file) RC# 196",91,6,0,3,100
+1774177,1350926,2023-07-25,Senate,"On the Amendment S.Amdt. 813 to S.Amdt. 935 to S. 2226 (No short title on file) RC# 197",91,7,0,2,100
+1774177,1350939,2023-07-26,Senate,"On the Amendment S.Amdt. 199 to S.Amdt. 935 to S. 2226 (No short title on file) RC# 198",95,2,0,3,100
+1774177,1350940,2023-07-26,Senate,"On the Amendment S.Amdt. 421 to S.Amdt. 935 to S. 2226 (No short title on file) RC# 199",46,53,0,1,100
+1774177,1350941,2023-07-26,Senate,"On the Amendment S.Amdt. 438 to S.Amdt. 935 to S. 2226 (No short title on file) RC# 201",20,78,0,2,100
+1774177,1350947,2023-07-26,Senate,"On the Amendment S.Amdt. 1055 to S.Amdt. 935 to S. 2226 (No short title on file) RC# 200",51,48,0,1,100
+1774177,1350966,2023-07-27,Senate,"On the Amendment S.Amdt. 999 to S.Amdt. 935 to S. 2226 (No short title on file) RC# 202",96,3,0,1,100
+1774177,1350967,2023-07-27,Senate,"On the Amendment S.Amdt. 1030 to S.Amdt. 935 to S. 2226 (No short title on file) RC# 203",11,88,0,1,100
+1774177,1350968,2023-07-27,Senate,"On the Amendment S.Amdt. 874 to S.Amdt. 935 to S. 2226 (No short title on file) RC# 204",50,49,0,1,100
+1774177,1350969,2023-07-27,Senate,"On the Amendment S.Amdt. 1034 to S.Amdt. 935 to S. 2226 (No short title on file) RC# 205",51,47,0,2,100
+1774177,1350970,2023-07-27,Senate,"On the Amendment S.Amdt. 1065 to S.Amdt. 935 to S. 2226 (No short title on file) RC# 206",94,4,0,2,100
+1774177,1350971,2023-07-27,Senate,"On the Amendment S.Amdt. 1058 to S.Amdt. 935 to S. 2226 (No short title on file) RC# 207",61,37,0,2,100
+1774177,1350972,2023-07-27,Senate,"On the Amendment S.Amdt. 638 to S.Amdt. 935 to S. 2226 (No short title on file) RC# 208",96,2,0,2,100
+1774177,1350973,2023-07-27,Senate,"On the Amendment S.Amdt. 1078 to S.Amdt. 935 to S. 2226 (No short title on file) RC# 209",86,11,0,3,100
+1774177,1350974,2023-07-27,Senate,"On the Amendment S.Amdt. 523 to S.Amdt. 935 to S. 2226 (No short title on file) RC# 210",55,42,0,3,100
+1774177,1350975,2023-07-27,Senate,"On the Amendment S.Amdt. 1087 to S.Amdt. 935 to S. 2226 (No short title on file) RC# 211",94,3,0,3,100
+1774177,1350976,2023-07-27,Senate,"On Passage of the Bill S. 2226 RC# 212",86,11,0,3,100
+1774226,1362470,2023-12-12,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 715",386,37,0,10,433
+1774339,1350577,2023-07-12,House,"On Ordering the Previous Question RC# 292",215,201,0,18,434
+1774339,1350578,2023-07-12,House,"On Agreeing to the Amendment RC# 293",218,207,0,9,434
+1774339,1350579,2023-07-12,House,"On Agreeing to the Resolution, as Amended RC# 294",217,207,0,10,434
+1774377,1443806,2024-05-15,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 207",408,3,0,18,429
+1774495,1350730,2023-07-13,House,"On Ordering the Previous Question RC# 295",214,207,0,12,433
+1774495,1350731,2023-07-13,House,"On Agreeing to the Resolution RC# 296",220,208,0,6,434
+1774517,1430925,2024-04-17,House,"On Agreeing to the Amendment: LaLota of New York Amendment No. 3 RC# 135",176,246,1,13,436
+1774517,1430926,2024-04-17,House,"On Passage RC# 136",219,199,1,12,431
+1774596,1430265,2024-04-16,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 129",410,13,0,8,431
+1774603,1431099,2024-04-17,House,"On Passage RC# 138",278,141,0,12,431
+1774608,1350845,2023-07-18,House,"On Motion to Suspend the Rules and Agree RC# 338",412,9,1,11,433
+1774610,1355395,2023-09-28,House,"On Agreeing to the Amendment RC# 462",134,298,0,6,438
+1774610,1355396,2023-09-28,House,"On Agreeing to the Amendment RC# 463",78,353,1,6,438
+1774610,1355397,2023-09-28,House,"On Agreeing to the Amendment RC# 464",102,326,0,10,438
+1774610,1355398,2023-09-28,House,"On Agreeing to the Amendment RC# 465",111,315,0,12,438
+1774610,1355399,2023-09-28,House,"On Agreeing to the Amendment RC# 466",115,312,0,11,438
+1774610,1355400,2023-09-28,House,"On Agreeing to the Amendment RC# 467",86,346,0,6,438
+1774610,1355401,2023-09-28,House,"On Agreeing to the Amendment RC# 468",133,297,0,8,438
+1774610,1355402,2023-09-28,House,"On Agreeing to the Amendment RC# 469",121,311,0,6,438
+1774610,1355403,2023-09-28,House,"On Agreeing to the Amendment RC# 470",135,295,0,8,438
+1774610,1355404,2023-09-28,House,"On Agreeing to the Amendment RC# 471",199,231,0,8,438
+1774610,1355405,2023-09-28,House,"On Agreeing to the Amendment RC# 472",195,236,0,7,438
+1774610,1355406,2023-09-28,House,"On Agreeing to the Amendment RC# 473",90,342,0,6,438
+1774610,1355407,2023-09-28,House,"On Agreeing to the Amendment RC# 474",92,340,0,6,438
+1774610,1355408,2023-09-28,House,"On Agreeing to the Amendment RC# 475",120,309,1,8,438
+1774610,1355409,2023-09-28,House,"On Agreeing to the Amendment RC# 476",104,327,0,7,438
+1774610,1355410,2023-09-28,House,"On Agreeing to the Amendment RC# 477",219,213,0,7,439
+1774610,1355411,2023-09-28,House,"On Agreeing to the Amendment RC# 478",151,278,0,9,438
+1774610,1355412,2023-09-28,House,"On Agreeing to the Amendment RC# 479",166,265,0,7,438
+1774610,1355413,2023-09-28,House,"On Agreeing to the Amendment RC# 480",187,241,0,10,438
+1774610,1355414,2023-09-28,House,"On Agreeing to the Amendment RC# 481",191,238,0,9,438
+1774610,1355415,2023-09-28,House,"On Agreeing to the Amendment RC# 482",132,298,0,8,438
+1774610,1355416,2023-09-28,House,"On Agreeing to the Amendment RC# 483",198,232,0,8,438
+1774610,1355417,2023-09-28,House,"On Agreeing to the Amendment RC# 484",188,242,0,8,438
+1774610,1355418,2023-09-28,House,"On Agreeing to the Amendment RC# 485",213,219,0,7,439
+1774610,1355419,2023-09-28,House,"On Agreeing to the Amendment RC# 486",218,215,0,6,439
+1774610,1355420,2023-09-28,House,"On Agreeing to the Amendment RC# 487",170,260,0,8,438
+1774610,1355421,2023-09-28,House,"On Agreeing to the Amendment RC# 488",171,258,0,9,438
+1774610,1355422,2023-09-28,House,"On Agreeing to the Amendment RC# 489",173,255,0,10,438
+1774610,1355423,2023-09-28,House,"On Agreeing to the Amendment RC# 490",217,212,0,9,438
+1774610,1355424,2023-09-28,House,"On Agreeing to the Amendment RC# 491",360,67,0,11,438
+1774610,1355425,2023-09-28,House,"On Agreeing to the Amendment RC# 492",216,213,0,9,438
+1774610,1355426,2023-09-28,House,"On Agreeing to the Amendment RC# 493",161,268,0,9,438
+1774610,1355427,2023-09-28,House,"On Agreeing to the Amendment RC# 494",198,232,0,8,438
+1774610,1355428,2023-09-28,House,"On Agreeing to the Amendment RC# 495",213,218,0,8,439
+1774610,1355429,2023-09-28,House,"On Agreeing to the Amendment RC# 496",351,81,0,7,439
+1774610,1355430,2023-09-28,House,"On Agreeing to the Amendment RC# 497",178,253,0,7,438
+1774610,1355431,2023-09-28,House,"On Agreeing to the Amendment RC# 498",187,244,0,7,438
+1774610,1355432,2023-09-28,House,"On Motion to Recommit RC# 499",210,217,0,5,432
+1774610,1355433,2023-09-28,House,"On Passage RC# 500",216,212,0,5,433
+1774612,1357391,2023-11-08,House,"On Agreeing to the Amendment RC# 623",336,86,0,16,438
+1774612,1357392,2023-11-08,House,"On Agreeing to the Amendment RC# 624",115,306,0,17,438
+1774612,1357393,2023-11-08,House,"On Agreeing to the Amendment RC# 625",187,238,0,13,438
+1774612,1357394,2023-11-08,House,"On Agreeing to the Amendment RC# 626",140,286,0,12,438
+1774612,1357395,2023-11-08,House,"On Agreeing to the Amendment RC# 627",183,246,0,9,438
+1774612,1357396,2023-11-08,House,"On Agreeing to the Amendment RC# 628",172,257,0,9,438
+1774612,1357397,2023-11-08,House,"On Agreeing to the Amendment RC# 629",250,174,0,14,438
+1774612,1357398,2023-11-08,House,"On Agreeing to the Amendment RC# 630",219,210,0,9,438
+1774612,1357399,2023-11-08,House,"On Agreeing to the Amendment RC# 631",205,220,0,13,438
+1774612,1357400,2023-11-08,House,"On Agreeing to the Amendment RC# 632",175,252,0,11,438
+1774612,1357401,2023-11-08,House,"On Agreeing to the Amendment RC# 633",106,322,0,10,438
+1774612,1357402,2023-11-08,House,"On Agreeing to the Amendment RC# 634",145,273,1,19,438
+1774612,1357403,2023-11-08,House,"On Agreeing to the Amendment RC# 635",205,211,0,22,438
+1774612,1357404,2023-11-08,House,"On Agreeing to the Amendment RC# 636",198,221,0,19,438
+1774612,1357405,2023-11-08,House,"On Agreeing to the Amendment RC# 637",196,223,0,19,438
+1774612,1357406,2023-11-08,House,"On Agreeing to the Amendment RC# 638",142,277,0,19,438
+1774612,1357407,2023-11-08,House,"On Agreeing to the Amendment RC# 639",208,212,0,18,438
+1774612,1357408,2023-11-08,House,"On Agreeing to the Amendment RC# 640",222,198,0,18,438
+1774612,1357409,2023-11-09,House,"On Agreeing to the Amendment RC# 641",165,257,1,16,439
+1774612,1357410,2023-11-09,House,"On Agreeing to the Amendment RC# 642",220,202,0,16,438
+1774693,1350841,2023-07-18,House,"On Ordering the Previous Question RC# 331",213,207,0,13,433
+1774693,1350842,2023-07-18,House,"On Agreeing to the Resolution RC# 332",213,206,0,15,434
+1774724,1411607,2024-03-19,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 87",365,30,0,36,431
+1774880,1436340,2024-04-29,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 154",354,36,0,38,428
+1775095,1437156,2024-04-30,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 156",364,44,0,21,429
+1775099,1357179,2023-11-07,House,"On Agreeing to the Amendment RC# 603",212,214,0,12,438
+1775099,1357180,2023-11-07,House,"On Agreeing to the Amendment RC# 604",125,297,0,16,438
+1775099,1357181,2023-11-07,House,"On Agreeing to the Amendment RC# 605",148,277,0,13,438
+1775099,1357182,2023-11-07,House,"On Agreeing to the Amendment RC# 606",213,210,0,15,438
+1775099,1357183,2023-11-07,House,"On Agreeing to the Amendment RC# 607",174,252,0,12,438
+1775099,1357184,2023-11-07,House,"On Agreeing to the Amendment RC# 609",144,282,0,12,438
+1775099,1357185,2023-11-07,House,"On Agreeing to the Amendment RC# 610",238,185,0,15,438
+1775099,1357186,2023-11-07,House,"On Agreeing to the Amendment RC# 611",106,324,0,8,438
+1775099,1357187,2023-11-07,House,"On Agreeing to the Amendment RC# 612",133,295,0,10,438
+1775099,1357188,2023-11-07,House,"On Agreeing to the Amendment RC# 613",104,325,0,9,438
+1775099,1357189,2023-11-07,House,"On Agreeing to the Amendment RC# 614",191,238,0,9,438
+1775099,1357190,2023-11-07,House,"On Agreeing to the Amendment RC# 615",211,220,0,8,439
+1775099,1357191,2023-11-07,House,"On Agreeing to the Amendment RC# 616",201,229,0,8,438
+1775099,1357192,2023-11-07,House,"On Agreeing to the Amendment RC# 617",164,264,0,10,438
+1775099,1357193,2023-11-07,House,"On Agreeing to the Amendment RC# 618",155,272,0,11,438
+1775099,1357194,2023-11-07,House,"On Agreeing to the Amendment RC# 619",212,217,0,9,438
+1775099,1357195,2023-11-07,House,"On Agreeing to the Amendment RC# 620",112,318,0,8,438
+1775099,1357196,2023-11-07,House,"On Agreeing to the Amendment RC# 621",211,219,0,8,438
+1775102,1356932,2023-11-02,House,"On Agreeing to the Amendment RC# 567",144,280,0,14,438
+1775102,1356933,2023-11-02,House,"On Agreeing to the Amendment RC# 568",184,239,0,15,438
+1775102,1356934,2023-11-02,House,"On Agreeing to the Amendment RC# 569",166,253,0,19,438
+1775102,1356935,2023-11-02,House,"On Agreeing to the Amendment RC# 570",129,292,0,17,438
+1775102,1356936,2023-11-02,House,"On Agreeing to the Amendment RC# 571",132,292,0,14,438
+1775102,1356937,2023-11-02,House,"On Agreeing to the Amendment RC# 572",177,246,0,15,438
+1775102,1356938,2023-11-02,House,"On Agreeing to the Amendment RC# 573",180,243,0,15,438
+1775102,1356939,2023-11-02,House,"On Agreeing to the Amendment RC# 574",163,261,0,14,438
+1775102,1356940,2023-11-02,House,"On Agreeing to the Amendment RC# 575",213,212,0,13,438
+1775102,1356941,2023-11-02,House,"On Agreeing to the Amendment RC# 576",188,237,0,13,438
+1775102,1356942,2023-11-02,House,"On Agreeing to the Amendment RC# 579",161,251,0,26,438
+1775102,1356943,2023-11-02,House,"On Agreeing to the Amendment RC# 580",191,219,0,28,438
+1775102,1356944,2023-11-02,House,"On Agreeing to the Amendment RC# 581",212,202,0,24,438
+1775102,1356945,2023-11-02,House,"On Agreeing to the Amendment RC# 582",212,206,0,20,438
+1775102,1356946,2023-11-02,House,"On Agreeing to the Amendment RC# 583",191,227,0,20,438
+1775102,1356947,2023-11-02,House,"On Agreeing to the Amendment RC# 584",166,251,0,21,438
+1775102,1356948,2023-11-02,House,"On Agreeing to the Amendment RC# 585",217,202,0,19,438
+1775102,1356949,2023-11-02,House,"On Agreeing to the Amendment RC# 586",151,263,0,24,438
+1775102,1356950,2023-11-02,House,"On Agreeing to the Amendment RC# 587",196,222,0,20,438
+1775102,1356951,2023-11-02,House,"On Agreeing to the Amendment RC# 588",207,213,0,18,438
+1775102,1356952,2023-11-02,House,"On Agreeing to the Amendment RC# 589",159,259,0,20,438
+1775102,1356953,2023-11-02,House,"On Agreeing to the Amendment RC# 590",150,265,0,23,438
+1775102,1356954,2023-11-02,House,"On Agreeing to the Amendment RC# 591",156,263,0,19,438
+1775102,1356955,2023-11-02,House,"On Agreeing to the Amendment RC# 592",175,244,0,19,438
+1775102,1356956,2023-11-03,House,"On Agreeing to the Amendment RC# 593",214,204,0,20,438
+1775102,1356957,2023-11-03,House,"On Agreeing to the Amendment RC# 594",212,204,0,22,438
+1775102,1356958,2023-11-03,House,"On Agreeing to the Amendment RC# 595",208,207,0,24,439
+1775102,1356959,2023-11-03,House,"On Motion to Recommit RC# 596",201,215,0,17,433
+1775102,1356960,2023-11-03,House,"On Passage RC# 597",213,203,0,17,433
+1775121,1437144,2024-04-30,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 157",333,75,0,20,428
+1775201,1436331,2024-04-29,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 153",341,48,0,39,428
+1775279,1357289,2023-11-08,Senate,"On the Joint Resolution S.J.Res. 38 RC# 303",50,48,0,2,100
+1775279,1364142,2024-01-11,House,"On Passage RC# 8",209,198,0,26,433
+1775279,1400530,2024-02-29,Senate,"On Overriding the Veto S.J.Res. 38 RC# 61",50,47,0,3,100
+1775361,1350942,2023-07-26,House,"On Ordering the Previous Question RC# 367",208,191,0,35,434
+1775361,1350943,2023-07-26,House,"On Agreeing to the Resolution, as Amended RC# 368",217,206,0,11,434
+1775454,1400212,2024-02-28,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 56",348,55,0,28,431
+1775623,1356620,2023-10-26,Senate,"On the Joint Resolution S.J.Res. 42 RC# 272",47,50,0,3,100
+1775806,1362472,2023-12-12,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 713",420,1,0,12,433
+1777000,1358045,2023-11-30,House,"On Agreeing to the Amendment RC# 688",206,223,1,10,440
+1777000,1358046,2023-11-30,House,"On Passage RC# 689",224,203,1,7,435
+1777288,1357768,2023-11-15,Senate,"On the Joint Resolution S.J.Res. 43 RC# 310",49,50,0,1,100
+1777306,1362084,2023-12-07,House,"On Passage RC# 705",210,189,0,34,433
+1777381,1362302,2023-10-26,Senate,"On the Motion to Discharge S.J.Res. 44 RC# 270",11,86,0,3,100
+1777525,1362311,2023-12-11,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 708",320,71,1,41,433
+1777537,1386438,2024-02-15,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 54",379,39,0,13,431
+1777792,1354912,2023-09-14,House,"On Ordering the Previous Question RC# 388",1,0,0,0,1
+1777792,1354913,2023-09-14,House,"On Agreeing to the Resolution RC# 389",1,0,0,0,1
+1777819,1355440,2023-09-19,House,"On Ordering the Previous Question RC# 397",217,209,0,7,433
+1777819,1355441,2023-09-19,House,"On Agreeing to the Resolution RC# 398",212,214,0,7,433
+1778146,1362476,2023-12-12,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 714",396,28,0,9,433
+1778158,1355435,2023-09-29,House,"On Motion to Recommit RC# 510",210,216,0,6,432
+1778158,1355436,2023-09-29,House,"On Passage RC# 511",198,232,0,3,433
+1778173,1371297,2024-01-29,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 20",397,0,0,34,431
+1778394,1372368,2024-01-30,House,"On Agreeing to the Amendment: Crockett of Texas Part A Amendment No. 1 RC# 24",201,224,0,12,437
+1778394,1372369,2024-01-30,House,"On Passage RC# 25",271,154,0,7,432
+1778513,1355442,2023-09-21,House,"On Ordering the Previous Question RC# 402",216,202,0,15,433
+1778513,1355443,2023-09-21,House,"On Agreeing to the Resolution RC# 403",212,216,0,5,433
+1778840,1355437,2023-09-28,House,"On Passage RC# 503",311,117,0,5,433
+1778842,1355444,2023-09-26,House,"On Consideration of the Resolution RC# 404",209,198,0,26,433
+1778842,1355445,2023-09-26,House,"On Ordering the Previous Question RC# 405",215,209,0,9,433
+1778842,1355446,2023-09-26,House,"On Agreeing to the Resolution RC# 406",216,212,0,5,433
+1778977,1355447,2023-09-28,House,"On Ordering the Previous Question RC# 456",214,210,0,9,433
+1778977,1355448,2023-09-28,House,"On Agreeing to the Resolution RC# 457",217,211,0,5,433
+1779175,1430392,2024-04-16,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 131",391,34,0,6,431
+1779289,1355449,2023-09-29,House,"On Ordering the Previous Question RC# 508",217,207,0,9,433
+1779289,1355450,2023-09-29,House,"On Agreeing to the Resolution RC# 509",218,210,0,5,433
+1779302,1384080,2024-02-13,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 41",414,11,0,6,431
+1779439,1366538,2024-01-17,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 12",403,9,0,20,432
+1779625,1355795,2023-10-03,House,"On Ordering the Previous Question RC# 516",218,207,0,7,432
+1779625,1355796,2023-10-03,House,"On Agreeing to the Resolution RC# 517",218,208,0,7,433
+1779648,1355797,2023-10-03,House,"On Motion to Table RC# 518",208,218,0,7,433
+1779648,1355798,2023-10-03,House,"On Agreeing to the Resolution RC# 519",216,210,0,7,433
+1779845,1357673,2023-11-14,House,"On Agreeing to the Amendment RC# 648",131,300,0,8,439
+1779845,1357674,2023-11-14,House,"On Agreeing to the Amendment RC# 649",190,241,0,8,439
+1779845,1357675,2023-11-14,House,"On Agreeing to the Amendment RC# 650",140,294,0,5,439
+1779845,1357676,2023-11-14,House,"On Agreeing to the Amendment RC# 651",183,251,0,5,439
+1779845,1357677,2023-11-14,House,"On Agreeing to the Amendment RC# 652",186,247,0,6,439
+1779845,1357678,2023-11-14,House,"On Agreeing to the Amendment RC# 653",109,324,0,6,439
+1779845,1357679,2023-11-14,House,"On Agreeing to the Amendment RC# 654",85,350,0,4,439
+1779845,1357680,2023-11-14,House,"On Agreeing to the Amendment RC# 655",81,353,0,5,439
+1779845,1357681,2023-11-14,House,"On Agreeing to the Amendment RC# 656",81,354,0,4,439
+1779845,1357682,2023-11-14,House,"On Agreeing to the Amendment RC# 657",118,316,0,5,439
+1779845,1363290,2023-11-15,House,"On Agreeing to the Amendment: Lawler of New York Part B Amendment No. 114 RC# 66",373,54,0,12,439
+1779845,1363291,2023-11-15,House,"On Agreeing to the Amendment: Perry of Pennsylvania Part B Amendment No. 78 RC# 661",169,257,0,13,439
+1779845,1363292,2023-11-15,House,"On Agreeing to the Amendment: Biggs of Arizona Part B Amendment No. 86 RC# 662",173,254,0,12,439
+1779845,1363293,2023-11-15,House,"On Agreeing to the Amendment: Crane of Arizona Part B Amendment No. 92 RC# 663",151,273,0,15,439
+1779845,1363294,2023-11-15,House,"On Agreeing to the Amendment: Greene of Georgia Part B Amendment No. 103 RC# 664",170,254,1,14,439
+1779845,1363295,2023-11-15,House,"On Agreeing to the Amendment: Greene of Georgia Part B Amendment No. 104 RC# 665",165,260,1,13,439
+1779845,1363296,2023-11-15,House,"On Agreeing to the Amendment: Hern of Oklahoma Part B Amendment No. 111 RC# 666",411,14,0,14,439
+1779845,1363297,2023-11-15,House,"On Agreeing to the Amendment: Higgins of Louisiana Part B Amendment No. 112 RC# 667",148,280,1,10,439
+1779845,1363298,2023-11-15,House,"On Agreeing to the Amendment: Higgins of Louisiana Part B Amendment No. 113 RC# 668",144,279,1,15,439
+1779845,1363299,2023-11-15,House,"On Agreeing to the Amendment: McCormick of Georgia Part B Amendment No. 117 RC# 670",162,262,1,14,439
+1779845,1363301,2023-11-15,House,"On Agreeing to the Amendment: Miller of Illinois Part B Amendment No. 118 RC# 671",157,268,1,13,439
+1779845,1363302,2023-11-15,House,"On Agreeing to the Amendment: Miller of Illinois Part B Amendment No. 119 RC# 672",155,270,1,13,439
+1779845,1363303,2023-11-15,House,"On Agreeing to the Amendment: Miller of Illinois Part B Amendment No. 121 RC# 673",204,224,0,11,439
+1779845,1363304,2023-11-15,House,"On Agreeing to the Amendment: Miller-Meeks of Iowa Part B Amendment No. 123 RC# 674",216,211,0,12,439
+1779845,1363305,2023-11-15,House,"On Agreeing to the Amendment: Rosendale of Montana Part B Amendment No. 134 RC# 675",155,268,1,15,439
+1780011,1430204,2024-04-16,House,"On Motion to Suspend the Rules and Pass RC# 128",419,4,0,8,431
+1780099,1356905,2023-11-01,House,"On Agreeing to the Resolution RC# 564",179,213,19,22,433
+1780102,1362048,2023-12-06,House,"On Agreeing to the Amendment RC# 698",372,39,0,28,439
+1780102,1362049,2023-12-06,House,"On Agreeing to the Amendment RC# 699",94,320,0,25,439
+1780102,1362050,2023-12-06,House,"On Agreeing to the Amendment RC# 700",202,213,0,24,439
+1780102,1362051,2023-12-06,House,"On Passage RC# 701",246,170,0,17,433
+1780107,1427983,2024-04-15,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 123",294,105,0,32,431
+1780108,1429193,2024-04-15,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 122",383,11,0,36,430
+1780117,1356606,2023-10-25,House,"On Motion to Suspend the Rules and Agree RC# 528",412,10,6,5,433
+1780212,1430965,2024-04-17,House,"On Passage RC# 139",259,160,0,12,431
+1780667,1358032,2023-11-30,House,"On Agreeing to the Amendment RC# 680",412,11,1,16,440
+1780667,1358033,2023-11-30,House,"On Agreeing to the Amendment RC# 681",422,1,1,16,440
+1780667,1358034,2023-11-30,House,"On Agreeing to the Amendment RC# 682",241,181,1,17,440
+1780667,1358035,2023-11-30,House,"On Agreeing to the Amendment RC# 683",226,199,1,14,440
+1780667,1358036,2023-11-30,House,"On Agreeing to the Amendment RC# 684",231,198,1,11,441
+1780667,1358037,2023-11-30,House,"On Agreeing to the Amendment RC# 685",399,28,1,12,440
+1780667,1358038,2023-11-30,House,"On Agreeing to the Amendment RC# 686",194,236,1,9,440
+1780667,1358039,2023-11-30,House,"On Passage RC# 687",307,119,1,8,435
+1780826,1357947,2023-11-28,House,"On Motion to Suspend the Rules and Agree RC# 676",414,0,0,20,434
+1781225,1356323,2023-10-19,Senate,"On the Resolution S.Res. 417 RC# 261",97,0,0,3,100
+1781260,1356961,2023-11-02,House,"On Motion to Suspend the Rules and Agree, as Amended RC# 578",396,23,0,14,433
+1781300,1412809,2024-03-20,House,"On Motion to Recommit RC# 94",204,211,0,17,432
+1781300,1412810,2024-03-20,House,"On Passage RC# 95",216,200,0,16,432
+1781310,1429389,2024-04-16,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 127",408,13,0,10,431
+1781807,1430759,2024-04-17,House,"On Passage RC# 137",285,135,0,11,431
+1781933,1437145,2024-04-30,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 158",394,19,0,15,428
+1781945,1437797,2024-05-01,House,"On Passage RC# 172",320,91,0,18,429
+1782419,1356930,2023-11-02,House,"On Passage RC# 577",226,196,0,11,433
+1782419,1362284,2023-11-14,Senate,"On the Motion to Table H.R. 6126 RC# 309",51,48,0,1,100
+1782431,1356895,2023-11-01,House,"On Motion to Table RC# 559",222,186,0,24,432
+1782534,1356920,2023-11-02,House,"On Ordering the Previous Question RC# 565",213,200,0,19,432
+1782534,1356921,2023-11-02,House,"On Agreeing to the Resolution RC# 566",213,203,0,16,432
+1782629,1440866,2024-05-07,House,"On Agreeing to the Amendment: Kelly of Pennsylvania Amendment No. 3 RC# 182",208,199,0,28,435
+1782629,1440867,2024-05-07,House,"On Motion to Recommit RC# 183",202,206,0,22,430
+1782629,1440868,2024-05-07,House,"On Passage RC# 184",212,195,0,23,430
+1782880,1357174,2023-11-07,House,"On Motion to Table RC# 608",208,213,1,11,433
+1782880,1357175,2023-11-07,House,"On Agreeing to the Resolution RC# 622",234,188,4,6,432
+1782889,1429288,2024-04-16,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 126",419,4,0,8,431
+1782892,1357220,2023-11-07,House,"On Ordering the Previous Question RC# 601",217,204,0,12,433
+1782892,1357221,2023-11-07,House,"On Agreeing to the Resolution RC# 602",217,204,0,12,433
+1783077,1408441,2024-03-12,House,"On Motion to Recommit RC# 83",206,213,0,13,432
+1783077,1408442,2024-03-12,House,"On Passage RC# 84",217,203,0,12,432
+1783310,1438028,2024-05-01,House,"On Motion to Recommit RC# 173",201,211,0,17,429
+1783310,1438029,2024-05-01,House,"On Passage RC# 174",214,199,2,14,429
+1783633,1431150,2024-04-17,House,"On Passage RC# 140",271,147,0,13,431
+1783643,1364259,2024-01-12,House,"On Passage RC# 10",206,177,0,50,433
+1783643,1425239,2024-04-10,Senate,"On the Joint Resolution H.J.Res. 98 RC# 122",50,48,0,2,100
+1783643,1440765,2024-05-07,House,"Passage, Objections of the President To The Contrary Notwithstanding RC# 185",214,191,0,24,429
+1783747,1357536,2023-11-13,House,"On Motion to Refer RC# 645",209,201,0,23,433
+1783747,1378396,2024-02-06,House,"On Agreeing to the Resolution, as Amended RC# 37",214,216,0,1,431
+1783747,1384106,2024-02-13,House,"On Motion to Reconsider RC# 42",216,211,0,4,431
+1783747,1384107,2024-02-13,House,"On Agreeing to the Resolution, as Amended RC# 43",214,213,0,4,431
+1783781,1357707,2023-11-14,House,"On Ordering the Previous Question RC# 646",217,208,0,8,433
+1783781,1357708,2023-11-14,House,"On Agreeing to the Resolution RC# 647",217,209,0,8,434
+1783962,1427516,2024-04-15,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 121",382,11,0,37,430
+1784006,1357772,2023-11-15,House,"On Ordering the Previous Question RC# 659",218,206,0,10,434
+1784006,1357773,2023-11-15,House,"On Agreeing to the Resolution RC# 660",198,225,0,11,434
+1784134,1362312,2023-12-07,Senate,"On the Motion to Discharge S.J.Res. 51 RC# 333",13,84,0,3,100
+1784302,1358059,2023-12-01,House,"On Agreeing to the Resolution RC# 691",311,114,2,8,435
+1784703,1429318,2024-04-16,House,"On Motion to Suspend the Rules and Agree RC# 134",377,44,1,9,431
+1784708,1357962,2023-11-28,House,"On Motion to Suspend the Rules and Agree RC# 677",412,1,1,21,435
+1785091,1361983,2023-12-05,House,"On Motion to Suspend the Rules and Agree RC# 697",311,14,92,17,434
+1785102,1357971,2023-11-29,House,"On Ordering the Previous Question RC# 678",213,205,1,15,434
+1785102,1357972,2023-11-29,House,"On Agreeing to the Resolution RC# 679",212,205,1,16,434
+1785924,1398893,2024-02-28,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 55",365,36,1,29,431
+1789198,1443853,2024-05-15,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 211",390,19,0,21,430
+1789214,1443878,2024-05-15,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 210",334,79,0,17,430
+1789221,1361980,2023-12-05,House,"On Ordering the Previous Question RC# 692",209,200,0,24,433
+1789221,1361981,2023-12-05,House,"On Agreeing to the Resolution RC# 693",213,201,0,19,433
+1789540,1429865,2024-04-16,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 130",406,19,0,6,431
+1790859,1362034,2023-12-06,House,"On Motion to Table RC# 704",201,216,1,16,434
+1790859,1362090,2023-12-07,House,"On Agreeing to the Resolution RC# 706",214,191,5,23,433
+1791107,1424177,2024-04-09,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 105",378,26,0,26,430
+1791110,1373574,2024-01-31,House,"On Agreeing to the Amendment: D’Esposito of New York Part B Amendment No. 1 RC# 26",267,158,0,6,431
+1791110,1373575,2024-01-31,House,"On Passage RC# 27",272,155,0,5,432
+1791116,1373516,2024-01-31,House,"On Passage RC# 28",422,2,1,6,431
+1791125,1362665,2023-12-13,House,"On Ordering the Previous Question RC# 719",220,212,0,1,433
+1791125,1362666,2023-12-13,House,"On Agreeing to the Resolution RC# 720",221,212,0,1,434
+1791517,1362490,2023-12-12,House,"On Ordering the Previous Question RC# 710",216,205,0,12,433
+1791517,1362491,2023-12-12,House,"On Agreeing to the Resolution RC# 711",215,207,0,11,433
+1791741,1362669,2023-12-13,House,"On Motion to Suspend the Rules and Agree RC# 721",303,126,3,2,434
+1792357,1366072,2024-01-16,Senate,"On the Motion to Table S.Res. 504 RC# 8",72,11,0,17,100
+1807982,1366860,2024-01-18,House,"On Motion to Recommit RC# 18",207,213,0,13,433
+1807982,1366861,2024-01-18,House,"On Passage RC# 19",212,207,0,14,433
+1808239,1364010,2024-01-10,House,"On Ordering the Previous Question RC# 2",213,200,0,19,432
+1808239,1364011,2024-01-10,House,"On Agreeing to the Resolution RC# 3",203,216,0,14,433
+1808239,1364143,2024-01-11,House,"On Motion to Reconsider RC# 4",210,201,1,21,433
+1808239,1364144,2024-01-11,House,"On Agreeing to the Resolution RC# 5",211,202,1,18,432
+1808392,1366851,2024-01-18,House,"On Motion to Recommit RC# 16",208,214,0,11,433
+1808392,1366852,2024-01-18,House,"On Passage RC# 17",214,208,0,11,433
+1812318,1374027,2024-02-01,House,"On Passage RC# 31",274,150,0,7,431
+1812329,1443768,2024-05-15,House,"On Motion to Suspend the Rules and Pass RC# 208",399,13,0,18,430
+1812365,1366520,2024-01-17,House,"On Agreeing to the Resolution RC# 13",225,187,0,21,433
+1817842,1385375,2024-02-14,House,"On Motion to Suspend the Rules and Agree RC# 44",418,0,1,12,431
+1819753,1366503,2024-01-17,House,"On Agreeing to the Resolution RC# 11",198,194,0,41,433
+1819882,1414081,2024-03-21,House,"On Motion to Recommit RC# 100",205,213,0,13,431
+1819882,1414082,2024-03-21,House,"On Passage RC# 101",213,205,0,14,432
+1819882,1414340,2024-03-21,House,"On Agreeing to the Amendment: Graves of Louisiana Amendment No. 8",99,323,0,15,437
+1820218,1373457,2024-01-31,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 30",357,70,0,5,432
+1829214,1414074,2024-03-21,House,"On Agreeing to the Resolution RC# 97",222,196,0,14,432
+1831370,1400900,2024-02-29,House,"On Motion to Suspend the Rules and Pass RC# 57",402,16,0,14,432
+1831374,1372376,2024-01-30,House,"On Ordering the Previous Question RC# 22",216,210,0,6,432
+1831374,1372377,2024-01-30,House,"On Agreeing to the Resolution RC# 23",216,210,0,6,432
+1831377,1441503,2024-05-08,House,"On Motion to Recommit RC# 192",203,207,0,20,430
+1831377,1441504,2024-05-08,House,"On Passage RC# 193",206,202,0,22,430
+1834568,1414068,2024-03-21,House,"On Agreeing to the Resolution RC# 96",217,200,0,15,432
+1834599,1386945,2024-02-15,House,"On Motion to Recommit RC# 51",209,213,0,9,431
+1834599,1386946,2024-02-15,House,"On Passage RC# 52",224,200,0,7,431
+1835667,1443662,2024-05-15,Senate,"On the Joint Resolution S.J.Res. 57 RC# 168",46,49,0,5,100
+1835687,1441541,2024-05-08,House,"On Passage RC# 189",228,182,0,19,429
+1835687,1444751,2024-05-16,Senate,"On the Joint Resolution H.J.Res. 109 RC# 169",60,38,0,2,100
+1838066,1385591,2024-02-14,House,"On Ordering the Previous Question RC# 47",213,209,0,9,431
+1838066,1385592,2024-02-14,House,"On Agreeing to the Resolution RC# 48",195,225,0,11,431
+1838167,1378891,2024-02-06,House,"On Motion to Suspend the Rules and Pass RC# 38",250,180,0,1,431
+1838232,1400949,2024-02-29,Senate,"On the Motion to Discharge S.J.Res. 60 RC# 62",13,79,0,8,100
+1838270,1378870,2024-02-06,House,"On Ordering the Previous Question RC# 34",215,207,0,9,431
+1838270,1378871,2024-02-06,House,"On Agreeing to the Resolution RC# 35",216,209,0,6,431
+1838289,1439924,2024-05-06,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 177",377,4,0,48,429
+1841913,1425161,2024-04-10,Senate,"On the Joint Resolution S.J.Res. 61 RC# 121",53,47,0,0,100
+1846398,1443803,2024-05-15,House,"On Passage RC# 204",265,148,0,17,430
+1846408,1385241,2024-02-14,House,"On Ordering the Previous Question RC# 45",212,206,0,13,431
+1846408,1385242,2024-02-14,House,"On Agreeing to the Resolution RC# 46",212,208,0,11,431
+1851530,1440939,2024-05-07,House,"On Motion to Suspend the Rules and Pass RC# 186",401,0,2,27,430
+1854914,1414138,2024-03-21,Senate,"On the Joint Resolution S.J.Res. 62 RC# 101",70,25,0,5,100
+1857880,1405993,2024-03-07,Senate,"On Passage of the Bill S. 3853 RC# 75",69,30,0,1,100
+1858849,1406236,2024-03-07,House,"On Passage RC# 66",251,170,0,11,432
+1860099,1412818,2024-03-20,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 91",414,0,0,18,432
+1860100,1443703,2024-05-15,House,"On Passage RC# 201",225,181,0,24,430
+1860106,1404885,2024-03-06,House,"On Ordering the Previous Question RC# 62",215,205,0,12,432
+1860106,1404886,2024-03-06,House,"On Agreeing to the Resolution RC# 63",214,211,0,7,432
+1860119,1440606,2024-05-06,House,"On Motion to Suspend the Rules and Pass RC# 178",352,27,0,51,430
+1860121,1408981,2024-03-13,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 86",352,65,1,14,432
+1860939,1404816,2024-03-06,House,"On Motion to Suspend the Rules and Agree RC# 64",339,85,0,8,432
+1861729,1443665,2024-05-15,House,"On Passage RC# 203",356,55,0,19,430
+1861739,1408408,2024-03-12,House,"On Agreeing to the Resolution RC# 85",226,193,0,13,432
+1862933,1408487,2024-03-12,House,"On Ordering the Previous Question RC# 81",209,205,0,18,432
+1862933,1408488,2024-03-12,House,"On Agreeing to the Resolution RC# 82",209,206,0,17,432
+1863932,1443320,2024-05-14,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 197",376,16,0,38,430
+1865564,1413222,2024-03-20,House,"On Ordering the Previous Question RC# 89",207,192,0,33,432
+1865564,1413223,2024-03-20,House,"On Agreeing to the Resolution RC# 90",214,200,0,18,432
+1867013,1431708,2024-04-18,Senate,"On Passage of the Bill S. 4072 RC# 142",52,46,0,2,100
+1867034,1414418,2024-03-22,House,"On Motion to Suspend the Rules and Agree RC# 102",286,134,0,12,432
+1870627,1437926,2024-05-01,House,"On Agreeing to the Resolution RC# 176",223,191,0,15,429
+1871712,1425130,2024-04-10,House,"On Ordering the Previous Question RC# 107",210,209,0,12,431
+1871712,1425131,2024-04-10,House,"On Agreeing to the Resolution RC# 108",193,228,0,10,431
+1872288,1426595,2024-04-12,House,"On Ordering the Previous Question RC# 112",208,202,0,21,431
+1872288,1426596,2024-04-12,House,"On Agreeing to the Resolution RC# 113",213,208,0,10,431
+1872719,1431514,2024-04-18,House,"On Agreeing to the Resolution RC# 141",404,14,0,13,431
+1873083,1429240,2024-04-16,House,"On Ordering the Previous Question RC# 124",212,208,0,11,431
+1873083,1429241,2024-04-16,House,"On Agreeing to the Resolution RC# 125",214,208,0,9,431
+1873506,1431689,2024-04-20,House,"On Agreeing to the Amendment: Cammack of Florida Part B Amendment No. 4 RC# 14",154,272,0,10,436
+1873506,1431690,2024-04-20,House,"On Agreeing to the Amendment: Spartz of Indiana Part B Amendment No. 1 RC# 147",105,319,0,12,436
+1873506,1431691,2024-04-20,House,"On Agreeing to the Amendment: Greene of Georgia Part B Amendment No. 2 RC# 148",71,351,0,14,436
+1873506,1431692,2024-04-20,House,"On Motion to Recommit RC# 150",88,336,0,7,431
+1873506,1431693,2024-04-20,House,"On Passage RC# 151",311,112,1,7,431
+1873532,1431661,2024-04-20,House,"On Agreeing to the Amendment: Nunn of Iowa Part E Amendment No. 2 RC# 144",249,167,0,20,436
+1873532,1431662,2024-04-20,House,"On Passage RC# 145",360,58,0,13,431
+1873539,1431751,2024-04-20,House,"On Passage RC# 146",385,34,1,11,431
+1873554,1431620,2024-04-20,House,"On Passage RC# 152",366,58,0,7,431
+1873682,1431595,2024-04-19,House,"On Agreeing to the Resolution RC# 142",316,94,0,21,431
+1874992,1437218,2024-04-30,House,"On Ordering the Previous Question RC# 162",209,205,0,15,429
+1874992,1437219,2024-04-30,House,"On Agreeing to the Resolution RC# 163",209,205,0,15,429
+1875048,1444752,2024-05-16,House,"On Passage RC# 215",254,157,0,19,430
+1875048,1444791,2024-05-16,House,"On Agreeing to the Amendment: Houlahan of Pennsylvania Part B Amendment No. 6 RC# 214",197,213,0,26,436
+1876712,1441032,2024-05-07,House,"On Ordering the Previous Question RC# 180",204,200,0,26,430
+1876712,1441033,2024-05-07,House,"On Agreeing to the Resolution RC# 181",205,199,0,26,430
+1877209,1441501,2024-05-08,House,"On Motion to Table RC# 188",359,43,7,21,430
+1877225,1444838,2024-05-17,House,"On Agreeing to the Resolution RC# 218",337,61,0,32,430
+1877230,1444743,2024-05-15,House,"On Agreeing to the Resolution RC# 202",223,185,1,21,430
+1878308,1444795,2024-05-16,House,"On Motion to Recommit RC# 216",202,210,0,18,430
+1878308,1444796,2024-05-16,House,"On Passage RC# 217",224,187,0,19,430
+1878926,1443646,2024-05-15,House,"On Ordering the Previous Question RC# 198",212,201,0,17,430
+1878926,1443647,2024-05-15,House,"On Agreeing to the Resolution RC# 199",212,200,1,17,430
+1650761,1240753,2023-02-01,House,"On Passage",229,197,0,7,433
+1650761,1288924,2023-03-29,Senate,"On Passage of the Bill H.J.Res. 7 RC# 80",68,23,0,9,100
+1657912,1236136,2023-01-25,House,"On Motion to Suspend the Rules and Pass, as Amended",424,4,0,6,434
+1683911,1350801,2023-07-17,House,"On Motion to Suspend the Rules and Pass RC# 329",400,0,0,33,433
+1683943,1363306,2023-09-19,House,"On Motion to Suspend the Rules and Pass RC# 399",422,0,0,11,433
+1685042,1357576,2023-11-13,House,"On Motion to Suspend the Rules and Pass RC# 644",409,0,1,23,433
+1694105,1247594,2023-02-09,House,"On Passage",250,173,0,11,434
+1694105,1272121,2023-03-08,Senate,"On the Joint Resolution H.J.Res. 26 RC# 49",81,14,1,4,100
+1694134,1362332,2023-12-06,Senate,"On the Cloture Motion H.R. 815 RC# 332",49,51,0,0,100
+1694134,1379686,2024-02-07,Senate,"On Cloture on the Motion to Proceed H.R. 815 RC# 39",49,50,0,1,100
+1694134,1380547,2024-02-08,Senate,"On Cloture on the Motion to Proceed H.R. 815 RC# 41",67,32,0,1,100
+1694134,1381248,2024-02-09,Senate,"On the Motion to Proceed H.R. 815 RC# 42",64,19,0,17,100
+1694134,1381347,2024-02-11,Senate,"On the Motion to Table H.R. 815 RC# 43",40,53,0,7,100
+1694134,1381348,2024-02-11,Senate,"On the Cloture Motion H.R. 815 RC# 44",67,27,0,6,100
+1694134,1382836,2024-02-12,Senate,"On the Motion (Motion to Waive All Applicable Budgetary Discipline During the Consideration of H.R. 815) RC# 45",66,33,0,1,100
+1694134,1382837,2024-02-12,Senate,"On the Amendment S.Amdt. 1388 to H.R. 815 (No short title on file) RC# 46",66,33,0,1,100
+1694134,1382838,2024-02-12,Senate,"On the Cloture Motion H.R. 815 RC# 47",66,33,0,1,100
+1694134,1399670,2024-02-13,Senate,"On Passage of the Bill H.R. 815 RC# 48",70,29,0,1,100
+1694134,1433360,2024-04-23,Senate,"On the Motion to Table H.R. 815 RC# 151",48,50,0,2,100
+1694134,1433361,2024-04-23,Senate,"On the Cloture Motion H.R. 815 RC# 152",80,19,0,1,100
+1694134,1433362,2024-04-23,Senate,"On the Motion (Motion to Waive: Section 314(e) of the C.B.A. re: the House Amdt to the Senate Amdt to H.R. 815) RC# 153",75,20,0,5,100
+1694134,1433363,2024-04-23,Senate,"On the Motion (Motion to Concur in the House Amendment to the Senate Amendment to H.R. 815) RC# 154",79,18,0,3,100
+1703055,1426044,2024-04-11,House,"On Motion to Suspend the Rules and Pass RC# 110",401,15,0,14,430
+1712239,1355451,2023-09-18,House,"On Motion to Suspend the Rules and Pass RC# 393",409,0,1,22,432
+1714896,1350573,2023-07-11,House,"On Motion to Suspend the Rules and Pass RC# 291",409,1,0,23,433
+1723511,1271081,2023-03-07,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 132",422,0,0,12,434
+1724868,1273518,2023-03-10,House,"On Passage RC# 143",419,0,0,16,435
+1741132,1362515,2023-12-12,House,"On Motion to Suspend the Rules and Pass RC# 712",403,20,0,10,433
+1746998,1324058,2023-05-11,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 212",425,0,0,10,435
+1750631,1355594,2023-10-02,House,"On Motion to Suspend the Rules and Pass RC# 514",390,0,1,42,433
+1757049,1350735,2023-07-13,House,"On Agreeing to the Amendment RC# 297",399,31,0,9,439
+1757049,1350736,2023-07-13,House,"On Agreeing to the Amendment RC# 298",198,217,0,24,439
+1757049,1350737,2023-07-13,House,"On Agreeing to the Amendment RC# 299",160,266,0,13,439
+1757049,1350738,2023-07-13,House,"On Agreeing to the Amendment RC# 300",221,213,0,6,440
+1757049,1350739,2023-07-13,House,"On Agreeing to the Amendment RC# 301",222,211,0,7,440
+1757049,1350740,2023-07-13,House,"On Agreeing to the Amendment RC# 302",222,210,0,8,440
+1757049,1350741,2023-07-13,House,"On Agreeing to the Amendment RC# 303",89,341,0,9,439
+1757049,1350742,2023-07-13,House,"On Agreeing to the Amendment RC# 304",70,358,0,11,439
+1757049,1350743,2023-07-13,House,"On Agreeing to the Amendment RC# 305",95,332,2,10,439
+1757049,1350744,2023-07-13,House,"On Agreeing to the Amendment RC# 306",129,301,0,9,439
+1757049,1350745,2023-07-13,House,"On Agreeing to the Amendment RC# 307",71,360,0,8,439
+1757049,1350746,2023-07-13,House,"On Agreeing to the Amendment RC# 308",217,212,0,10,439
+1757049,1350747,2023-07-13,House,"On Agreeing to the Amendment RC# 309",227,201,1,10,439
+1757049,1350748,2023-07-13,House,"On Agreeing to the Amendment RC# 310",214,210,0,15,439
+1757049,1350749,2023-07-13,House,"On Agreeing to the Amendment RC# 311",216,216,0,7,439
+1757049,1350750,2023-07-13,House,"On Agreeing to the Amendment RC# 312",214,213,0,6,433
+1757049,1350751,2023-07-13,House,"On Agreeing to the Amendment RC# 313",218,213,0,8,439
+1757049,1350752,2023-07-13,House,"On Agreeing to the Amendment RC# 314",222,209,0,8,439
+1757049,1350753,2023-07-13,House,"On Agreeing to the Amendment RC# 315",234,198,0,7,439
+1757049,1350754,2023-07-13,House,"On Agreeing to the Amendment RC# 316",177,253,0,9,439
+1757049,1350755,2023-07-13,House,"On Agreeing to the Amendment RC# 317",147,276,2,14,439
+1757049,1350756,2023-07-13,House,"On Agreeing to the Amendment RC# 318",218,213,0,8,439
+1757049,1350757,2023-07-13,House,"On Agreeing to the Amendment RC# 319",79,353,0,7,439
+1757049,1350758,2023-07-13,House,"On Agreeing to the Amendment RC# 320",212,218,0,9,439
+1757049,1350759,2023-07-13,House,"On Agreeing to the Amendment RC# 321",210,221,0,8,439
+1757049,1350760,2023-07-13,House,"On Agreeing to the Amendment RC# 322",193,237,0,9,439
+1757049,1350761,2023-07-13,House,"On Agreeing to the Amendment RC# 323",247,185,0,7,439
+1757049,1350762,2023-07-13,House,"On Agreeing to the Amendment RC# 324",218,213,0,8,439
+1757049,1350765,2023-07-14,House,"On Agreeing to the Amendment RC# 325",218,210,0,11,439
+1757049,1350766,2023-07-14,House,"On Agreeing to the Amendment RC# 326",217,216,0,7,440
+1757049,1350767,2023-07-14,House,"On Motion to Recommit RC# 327",210,217,0,7,434
+1757049,1350768,2023-07-14,House,"On Passage RC# 328",219,210,0,5,434
+1757049,1355353,2023-09-19,House,"On Motion to go to Conference RC# 395",393,27,0,13,433
+1757049,1355354,2023-09-19,House,"On Closing Portions of the Conference RC# 396",401,19,0,13,433
+1757049,1355355,2023-09-20,House,"On Motion to Instruct Conferees RC# 400",205,214,0,14,433
+1757049,1362306,2023-11-15,Senate,"On the Motion (Motion to Insist on the Senate Amendment to H.R. 2670, Agree to the Request for Conference, and Authorize the Chair to Appoint Conferees) RC# 313",90,8,0,2,100
+1757049,1362307,2023-12-07,Senate,"On the Motion to Proceed H.R. 2670 RC# 334",82,15,0,3,100
+1757049,1362481,2023-12-12,Senate,"On the Motion to Table S.Amdt. 1373 to H.R. 2670 (National Defense Authorization Act for Fiscal Year 2024) RC# 339",47,53,0,0,100
+1757049,1362482,2023-12-12,Senate,"On the Motion to Table H.R. 2670 RC# 340",26,73,0,1,100
+1757049,1362483,2023-12-12,Senate,"On the Cloture Motion H.R. 2670 RC# 341",85,15,0,0,100
+1757049,1362677,2023-12-13,Senate,"On the Motion (Motion to Waive the Rule 28 Point of Order Re: Section 7902 of the Conference Report to Accompany H.R. 2670) RC# 342",65,35,0,0,100
+1757049,1362678,2023-12-13,Senate,"On the Conference Report H.R. 2670 RC# 343",87,13,0,0,100
+1757049,1362842,2023-12-14,House,"On Motion to Suspend the Rules and Agree to the Conference Report RC# 723",310,118,0,6,434
+1758038,1373512,2024-01-31,House,"On Motion to Suspend the Rules and Pass RC# 29",420,0,2,9,431
+1759606,1366073,2024-01-16,Senate,"On Cloture on the Motion to Proceed H.R. 2872 RC# 9",68,13,0,19,100
+1759606,1366853,2024-01-18,Senate,"On the Amendment S.Amdt. 1384 to S.Amdt. 1381 to H.R. 2872 (No short title on file) RC# 10",44,50,0,6,100
+1759606,1366854,2024-01-18,Senate,"On the Motion (Marshall Motion to Commit H.R. 2872 to the Committee on Appropriations with instructions) RC# 11",13,82,0,5,100
+1759606,1366855,2024-01-18,Senate,"On Passage of the Bill H.R. 2872 RC# 12",77,18,0,5,100
+1759606,1366856,2024-01-18,House,"On Motion to Suspend the Rules and Concur in the Senate Amendment RC# 15",314,108,0,11,433
+1759619,1376912,2024-02-05,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 32",350,58,0,22,430
+1759619,1414430,2024-03-22,Senate,"On the Motion to Proceed H.R. 2882 RC# 103",78,18,0,4,100
+1759619,1414431,2024-03-23,Senate,"On the Motion (Motion to Concur in the House Amdt to the Senate Amdt to H.R. 2882 with Lee Amdt No. 1722) RC# 105",45,51,0,4,100
+1759619,1414432,2024-03-23,Senate,"On the Motion to Refer H.R. 2882 RC# 106",34,63,0,3,100
+1759619,1414433,2024-03-23,Senate,"On the Motion to Table H.R. 2882 RC# 107",51,47,0,2,100
+1759619,1414434,2024-03-23,Senate,"On the Motion to Table H.R. 2882 RC# 108",51,47,0,2,100
+1759619,1414435,2024-03-23,Senate,"On the Motion (Motion to Concur in the House Amdt to the Senate Amdt to H.R. 2882 with Schmitt Amdt No. 1795) RC# 109",47,51,0,2,100
+1759619,1414436,2024-03-23,Senate,"On the Motion to Table H.R. 2882 RC# 110",51,47,0,2,100
+1759619,1414437,2024-03-23,Senate,"On the Motion to Table H.R. 2882 RC# 111",47,51,0,2,100
+1759619,1414438,2024-03-23,Senate,"On the Motion to Table H.R. 2882 RC# 112",47,51,0,2,100
+1759619,1414439,2024-03-23,Senate,"On the Motion to Table H.R. 2882 RC# 113",47,51,0,2,100
+1759619,1414440,2024-03-23,Senate,"On the Motion (Motion to Concur in the House Amendment to the Senate Amendment to H.R. 2882) RC# 114",74,24,0,2,100
+1768826,1345761,2023-06-20,House,"On Motion to Suspend the Rules and Pass RC# 273",409,0,1,23,433
+1769161,1336654,2023-05-31,House,"On Passage RC# 243",314,117,0,4,435
+1769161,1337373,2023-06-01,Senate,"On the Amendment S.Amdt. 107 to H.R. 3746 (No short title on file) RC# 136",21,75,0,4,100
+1769161,1337374,2023-06-01,Senate,"On the Amendment S.Amdt. 91 to H.R. 3746 (No short title on file) RC# 137",35,62,0,3,100
+1769161,1337375,2023-06-01,Senate,"On the Amendment S.Amdt. 110 to H.R. 3746 (No short title on file) RC# 138",46,51,0,3,100
+1769161,1337376,2023-06-01,Senate,"On the Amendment S.Amdt. 125 to H.R. 3746 (No short title on file) RC# 139",49,48,0,3,100
+1769161,1337377,2023-06-01,Senate,"On the Amendment S.Amdt. 93 to H.R. 3746 (No short title on file) RC# 140",17,81,0,2,100
+1769161,1337378,2023-06-01,Senate,"On the Amendment S.Amdt. 104 to H.R. 3746 (No short title on file) RC# 141",46,51,0,3,100
+1769161,1337379,2023-06-01,Senate,"On the Amendment S.Amdt. 106 to H.R. 3746 (No short title on file) RC# 142",48,51,0,1,100
+1769161,1337380,2023-06-01,Senate,"On the Amendment S.Amdt. 134 to H.R. 3746 (No short title on file) RC# 143",47,52,0,1,100
+1769161,1337381,2023-06-01,Senate,"On the Amendment S.Amdt. 98 to H.R. 3746 (No short title on file) RC# 144",48,51,0,1,100
+1769161,1337382,2023-06-01,Senate,"On the Amendment S.Amdt. 101 to H.R. 3746 (No short title on file) RC# 145",30,69,0,1,100
+1769161,1337500,2023-06-01,Senate,"On Passage of the Bill H.R. 3746 RC# 146",63,36,0,1,100
+1773292,1350948,2023-07-26,House,"On Agreeing to the Amendment RC# 369",394,19,0,27,440
+1773292,1350949,2023-07-26,House,"On Agreeing to the Amendment RC# 370",99,327,0,14,440
+1773292,1350950,2023-07-26,House,"On Agreeing to the Amendment RC# 371",83,347,0,10,440
+1773292,1350951,2023-07-26,House,"On Agreeing to the Amendment RC# 372",204,227,0,9,440
+1773292,1350952,2023-07-26,House,"On Agreeing to the Amendment RC# 373",228,206,0,6,440
+1773292,1350953,2023-07-26,House,"On Agreeing to the Amendment RC# 374",223,211,0,6,440
+1773292,1350954,2023-07-26,House,"On Agreeing to the Amendment RC# 375",224,210,0,6,440
+1773292,1350955,2023-07-26,House,"On Agreeing to the Amendment RC# 376",221,212,0,7,440
+1773292,1350956,2023-07-26,House,"On Agreeing to the Amendment RC# 377",220,214,0,6,440
+1773292,1350957,2023-07-26,House,"On Agreeing to the Amendment RC# 378",222,212,0,6,440
+1773292,1350964,2023-07-27,House,"On Motion to Recommit RC# 379",206,219,0,9,434
+1773292,1350965,2023-07-27,House,"On Passage RC# 380",219,211,0,4,434
+1773292,1355116,2023-09-20,Senate,"On the Cloture Motion S.Amdt. 1092 to H.R. 4366 (No short title on file) RC# 233",49,48,0,3,100
+1773292,1356576,2023-10-25,Senate,"On the Amendment S.Amdt. 1210 to S.Amdt. 1092 to H.R. 4366 (No short title on file) RC# 266",59,38,0,3,100
+1773292,1356577,2023-10-25,Senate,"On the Amendment S.Amdt. 1237 to S.Amdt. 1092 to H.R. 4366 (No short title on file) RC# 267",47,51,0,2,100
+1773292,1356578,2023-10-25,Senate,"On the Amendment S.Amdt. 1354 to S.Amdt. 1092 to H.R. 4366 (No short title on file) RC# 268",53,45,0,2,100
+1773292,1356579,2023-10-25,Senate,"On the Amendment S.Amdt. 1232 to S.Amdt. 1092 to H.R. 4366 (No short title on file) RC# 269",56,42,0,2,100
+1773292,1356852,2023-10-31,Senate,"On the Amendment S.Amdt. 1200 to S.Amdt. 1092 to H.R. 4366 (No short title on file) RC# 277",61,36,0,3,100
+1773292,1356853,2023-10-31,Senate,"On the Amendment S.Amdt. 1296 to S.Amdt. 1092 to H.R. 4366 (No short title on file) RC# 278",47,49,0,4,100
+1773292,1356854,2023-10-31,Senate,"On the Amendment S.Amdt. 1243 to S.Amdt. 1092 to H.R. 4366 (No short title on file) RC# 279",45,50,0,5,100
+1773292,1356962,2023-11-01,Senate,"On Passage of the Bill H.R. 4366 RC# 284",82,15,0,3,100
+1773292,1362848,2023-09-12,Senate,"On the Cloture Motion H.R. 4366 RC# 227",85,12,0,3,100
+1773292,1362849,2023-09-14,Senate,"On the Motion to Proceed H.R. 4366 RC# 228",91,7,0,2,100
+1773292,1363269,2023-10-26,Senate,"On the Amendment S.Amdt. 1182 to S.Amdt. 1092 to H.R. 4366 (No short title on file) RC# 271",35,62,0,3,100
+1773292,1363270,2023-11-01,Senate,"On the Amendment S.Amdt. 1217 to S.Amdt. 1092 to H.R. 4366 (No short title on file) RC# 280",46,51,0,3,100
+1773292,1363271,2023-11-01,Senate,"On the Amendment S.Amdt. 1347 to S.Amdt. 1092 to H.R. 4366 (No short title on file) RC# 281",23,74,0,3,100
+1773292,1363272,2023-11-01,Senate,"On the Amendment S.Amdt. 1249 to S.Amdt. 1092 to H.R. 4366 (No short title on file) RC# 282",52,45,0,3,100
+1773292,1363273,2023-11-01,Senate,"On the Amendment S.Amdt. 1121 to S.Amdt. 1092 to H.R. 4366 (No short title on file) RC# 283",46,51,0,3,100
+1773292,1406836,2024-03-08,Senate,"On the Motion to Table H.R. 4366 RC# 78",45,52,0,3,100
+1773292,1406837,2024-03-08,Senate,"On the Cloture Motion H.R. 4366 RC# 79",63,35,0,2,100
+1773292,1406838,2024-03-08,Senate,"On the Motion (Lee Motion to Concur in the House Amendment to the Senate Amendment to H.R. 4366 with an Amendment No. 1623) RC# 80",43,50,0,7,100
+1773292,1406839,2024-03-08,Senate,"On the Motion (Schmitt Motion to Concur in the House Amendment to the Senate Amendment to H.R. 4366 with an Amendment No. 1626) RC# 81",37,59,0,4,100
+1773292,1406840,2024-03-08,Senate,"On the Motion to Refer H.R. 4366 RC# 82",32,64,0,4,100
+1773292,1406841,2024-03-08,Senate,"On the Motion (Hagerty Motion to Concur in the House Amendment to the Senate Amendment to H.R. 4366 with an Amendment No. 1634) RC# 83",45,51,0,4,100
+1773292,1406842,2024-03-08,Senate,"On the Motion (Schumer Motion to Concur in the House Amendment to the Senate Amendment to H.R. 4366) RC# 84",75,22,0,3,100
+1775836,1355434,2023-09-26,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 407",424,1,0,8,433
+1779315,1355348,2023-09-30,Senate,"On Passage of the Bill H.R. 5860 RC# 247",88,9,0,2,99
+1779315,1355438,2023-09-30,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 513",335,91,0,7,433
+1783347,1366859,2024-01-18,House,"On Motion to Suspend the Rules and Pass RC# 14",413,7,0,13,433
+1783775,1357669,2023-11-14,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 658",336,95,0,3,434
+1783775,1357784,2023-11-15,Senate,"On the Amendment S.Amdt. 1366 to H.R. 6363 (No short title on file) RC# 311",32,65,0,3,100
+1783775,1357785,2023-11-15,Senate,"On Passage of the Bill H.R. 6363 RC# 312",87,11,0,2,100
+1785203,1362363,2023-12-11,House,"On Motion to Suspend the Rules and Pass RC# 709",376,15,0,42,433
+1790867,1371312,2024-01-29,House,"On Motion to Suspend the Rules and Pass RC# 21",379,20,0,32,431
+1854912,1401119,2024-02-29,House,"On Motion to Suspend the Rules and Pass RC# 59",401,19,0,12,432
+1856871,1400440,2024-02-29,House,"On Motion to Suspend the Rules and Pass RC# 58",320,99,0,13,432
+1856871,1400441,2024-02-29,Senate,"On the Amendment S.Amdt. 1614 to H.R. 7463 (No short title on file) RC# 63",37,53,0,10,100
+1856871,1400442,2024-02-29,Senate,"On the Motion (Marshall Motion to Commit H.R. 7463 to the Committee on Appropriations with Instructions) RC# 64",14,76,0,10,100
+1856871,1400443,2024-02-29,Senate,"On the Motion (Lee Motion to Commit H.R. 7463 to the Committee on Appropriations with Instructions) RC# 65",12,77,0,11,100
+1856871,1400444,2024-02-29,Senate,"On the Motion (Cruz Motion to Commit H.R. 7463 to the Committee on Appropriations with Instructions) RC# 66",32,58,0,10,100
+1856871,1400445,2024-02-29,Senate,"On Passage of the Bill H.R. 7463 RC# 67",77,13,0,10,100
+1871243,1426600,2024-04-12,House,"On Passage RC# 119",273,147,0,11,431
+1871243,1426602,2024-04-12,House,"On Agreeing to the Amendment: Biggs of Arizona Amendment No. 1 RC# 114",212,212,0,13,437
+1871243,1426603,2024-04-12,House,"On Agreeing to the Amendment: Roy of Texas Amendment No. 2 RC# 115",269,153,0,15,437
+1871243,1426604,2024-04-12,House,"On Agreeing to the Amendment: Crenshaw of Texas Amendment No. 4 RC# 116",268,152,0,16,436
+1871243,1426605,2024-04-12,House,"On Agreeing to the Amendment: Waltz of Florida Amendment No. 5 RC# 117",227,193,0,16,436
+1871243,1426606,2024-04-12,House,"On Agreeing to the Amendment: Turner of Ohio Amendment No. 6 RC# 118",236,186,0,14,436
+1871243,1427515,2024-04-15,House,"Table Motion to Reconsider RC# 120",259,128,0,43,430
+1871243,1431397,2024-04-18,Senate,"On the Cloture Motion H.R. 7888 RC# 141",67,32,0,1,100
+1871243,1431611,2024-04-19,Senate,"On the Amendment S.Amdt. 1840 to H.R. 7888 (No short title on file) RC# 14",40,53,0,7,100
+1871243,1431612,2024-04-19,Senate,"On the Motion to Proceed H.R. 7888 RC# 143",62,30,0,8,100
+1871243,1431613,2024-04-19,Senate,"On the Amendment S.Amdt. 1829 to H.R. 7888 (No short title on file) RC# 144",31,61,0,8,100
+1871243,1431614,2024-04-19,Senate,"On the Amendment S.Amdt. 1834 to H.R. 7888 (No short title on file) RC# 145",17,75,0,8,100
+1871243,1431615,2024-04-19,Senate,"On the Amendment S.Amdt. 1820 to H.R. 7888 (No short title on file) RC# 146",34,58,0,8,100
+1871243,1431616,2024-04-19,Senate,"On the Amendment S.Amdt. 1828 to H.R. 7888 (No short title on file) RC# 147",11,81,0,8,100
+1871243,1431617,2024-04-19,Senate,"On the Amendment S.Amdt. 1841 to H.R. 7888 (No short title on file) RC# 148",42,50,0,8,100
+1871243,1431618,2024-04-19,Senate,"On Passage of the Bill H.R. 7888 RC# 150",60,34,0,6,100
+1877192,1441500,2024-05-08,House,"On Motion to Suspend the Rules and Pass RC# 187",385,24,1,20,430
