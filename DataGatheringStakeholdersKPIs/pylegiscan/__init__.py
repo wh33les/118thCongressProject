@@ -1,3 +1,0 @@
-
-from legiscan import LegiScan
-
