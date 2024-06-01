@@ -5,13 +5,13 @@ The current (118th) Congress has been called a "do-nothing" Congress.  As of 1 J
 This project seeks to predict whether a bill introduced in the 118th Congress will become a law.
 
 Highlights of the repository:
-- Data/readme.md: Data gathering, identifying stakeholders, KPIs
-- Data/initial_data_cleaning.json: Cleaned data.
-- DataProcessing.ipynb: Data converted to a data frame with categorical variables one-hot encoded.
-- DataExploration.ipynb: Dimension reduction.
-- ModelMetrics.ipynb: Implementing the logistic regression algorithm.  Performance metrics include accuracy, precision, and recall.
-- 118executivesummary.pdf: Executive summary.
-- 118presentation.pdf: Presentation slide show.
+- `Data/readme.md`: Data gathering, identifying stakeholders, KPIs
+- `Data/initial_data_cleaning.json`: Cleaned data.
+- `DataProcessing.ipynb`: Data converted to a data frame with categorical variables one-hot encoded.
+- `DataExploration.ipynb`: Dimension reduction.
+- `ModelMetrics.ipynb`: Implementing the logistic regression algorithm.  Performance metrics include accuracy, precision, and recall.
+- `118executivesummary.pdf`: Executive summary.
+- `118presentation.pdf`: Presentation slide show.
 
 
 
