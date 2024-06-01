@@ -12,6 +12,7 @@ Highlights of the repository:
 - `ModelMetrics.ipynb`: Implementing the logistic regression algorithm.  Performance metrics include accuracy, precision, and recall.
 - `118executivesummary.pdf`: Executive summary.
 - `118presentation.pdf`: Presentation slide show.
+- `118presenationVideo.mp4`: Presentation video.
 
 
 
