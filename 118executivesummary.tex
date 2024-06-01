@@ -1,0 +1,122 @@
+\documentclass[12pt]%, a4paper]
+{article}
+%\usepackage{geometry}
+\usepackage{comment}
+\usepackage[inner=1.5cm,outer=1.5cm,top=2.5cm,bottom=2.5cm]{geometry}
+\usepackage[scaled]{helvet}
+\renewcommand\familydefault{\sfdefault} 
+\usepackage[T1]{fontenc}
+\pagestyle{empty}
+
+\usepackage{enumerate}
+\usepackage{graphicx}
+\usepackage{fancyhdr, lastpage, bbding, pmboxdraw}
+\usepackage[usenames,dvipsnames]{color}
+\definecolor{darkblue}{rgb}{0,0,.6}
+\definecolor{darkred}{rgb}{.7,0,0}
+\definecolor{darkgreen}{rgb}{0,.6,0}
+\definecolor{red}{rgb}{.98,0,0}
+\usepackage[hyphens]{url}
+\usepackage[colorlinks,pagebackref,pdfusetitle,urlcolor=darkblue,citecolor=darkblue,linkcolor=darkred,bookmarksnumbered,plainpages=false]{hyperref}
+\usepackage[skins]{tcolorbox}
+	\tcbset{colback=black!5}
+	\tcbsetforeverylayer{colframe=yellow!50!black}
+%\usepackage{texlogos}
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+\setlength{\parindent}{0pt}
+
+\pagestyle{fancyplain}
+\fancyhf{}
+\lhead{ \fancyplain{}{MAT 130: Intro to Stats Spring 2024 Final Project Description} }
+%\chead{ \fancyplain{}{} }
+%\rhead{ \fancyplain{}{\textit{Last updated:} \today} }
+%\rfoot{\fancyplain{}{page \thepage\ of \pageref{LastPage}}}
+\fancyfoot[RO, LE] {page \thepage\ of \pageref{LastPage} }
+\thispagestyle{plain}
+
+%%%%%%%%%%%% LISTING %%%
+\usepackage{listings}
+\usepackage{caption}
+\DeclareCaptionFont{white}{\color{white}}
+\DeclareCaptionFormat{listing}{\colorbox{gray}{\parbox{\textwidth}{#1#2#3}}}
+\captionsetup[lstlisting]{format=listing,labelfont=white,textfont=white}
+\usepackage{verbatim} % used to display code
+\usepackage{fancyvrb}
+\usepackage{acronym}
+\usepackage{amsthm}
+\VerbatimFootnotes % Required, otherwise verbatim does not work in footnotes!
+
+
+%\DeclareMathOperator{\Tor}{Tor}
+%\DeclareMathOperator{\Ext}{Ext}
+
+\definecolor{OliveGreen}{cmyk}{0.64,0,0.95,0.40}
+\definecolor{CadetBlue}{cmyk}{0.62,0.57,0.23,0}
+\definecolor{lightlightgray}{gray}{0.93}
+
+
+
+\lstset{
+%language=bash,                          % Code langugage
+basicstyle=\ttfamily,                   % Code font, Examples: \footnotesize, \ttfamily
+keywordstyle=\color{OliveGreen},        % Keywords font ('*' = uppercase)
+commentstyle=\color{gray},              % Comments font
+numbers=left,                           % Line nums position
+numberstyle=\tiny,                      % Line-numbers fonts
+stepnumber=1,                           % Step between two line-numbers
+numbersep=5pt,                          % How far are line-numbers from code
+backgroundcolor=\color{lightlightgray}, % Choose background color
+frame=none,                             % A frame around the code
+tabsize=2,                              % Default tab size
+captionpos=t,                           % Caption-position = bottom
+breaklines=true,                        % Automatic line breaking?
+breakatwhitespace=false,                % Automatic breaks only at whitespace?
+showspaces=false,                       % Dont make spaces visible
+showtabs=false,                         % Dont make tabls visible
+columns=flexible,                       % Column format
+morekeywords={__global__, __device__},  % CUDA specific keywords
+}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+\begin{center}
+{\Large \textsc{Executive Summary}}
+%\end{center}
+%\begin{center}
+
+\vspace{0.5pc}
+118th Congress Project
+%\end{center}
+%\date{September 26, 2014}
+
+\end{center}
+
+\vspace{1.5pc}
+This project uses logistic regression to predict whether a bill introduced in the 118th Congress will become a law.  
+
+\vspace{0.5pc}
+As of 1 June 2024, 15,366 bills have been introduced and only 64 have become law!  This means there is a severe class imbalance in the data.  To mitigate this, the algorithm was trained and used on four subsets of the data:
+\begin{enumerate}
+\item All bills (15,366).
+\item Bills that passed in the House.  Given that a bill passed in the House, will it become a law?
+\item Bills that passed in the Senate.  Given that a bill passed in the Senate, will it become a law?
+\item Bills that passed in both chambers.  Given that a bill passed in both chambers, will it become a law?
+\end{enumerate}
+
+\vspace{1pc}
+%\vfill
+\begin{center}
+{\large\textbf{Results}}
+\end{center}  
+
+
+\vspace{0.75pc}
+\begin{center}
+{\large\textbf{Implications}}
+\end{center}
+
+
+\end{document} 
