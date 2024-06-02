@@ -169,7 +169,7 @@ To address the imbalance, we created 4 data sets to train:
 
 \pause
 \begin{multicols}{2}
-\begin{enumerate}
+\begin{itemize}
 \itemsep0em
 \item all bills (15,366)
 \pause
@@ -178,7 +178,7 @@ To address the imbalance, we created 4 data sets to train:
 \item bills that passed in the Senate (189)
 \pause
 \item bills that passed in both chambers (81)
-\end{enumerate}
+\end{itemize}
 \end{multicols}
 \pause
 As the accuracy of the baseline model decreases with each data set, we also measure precision and recall.
@@ -199,7 +199,7 @@ To simplify the model, we reduced to the following features:
 \item a subset of Senate votes by politician and the numbers by party
 \end{itemize}
 \pause
-The subsets of votes by politician differed, depending on the data set, as different correlations showed up in the analysis.
+%The subsets of votes by politician differed, depending on the data set, as different correlations showed up in the analysis.
 \end{frame}
 
 % % %
@@ -208,16 +208,16 @@ Which model performed the best?
 
 \pause
 \vspace{1pc}
-Overall, the model which only trained on the bills that passed in the House performed the best.
+Overall, the model which only trained on the bills that passed in the House performed the best.  Here's how it did on the test data:
 
 \pause
 \begin{itemize}
 %\itemsep0em
-\item accuracy: 97.7\% \pause (baseline accuracy: 90.1\%)
+\item accuracy: 94.3\% \pause (baseline accuracy: 90.7\%)
 \pause
 \item precision: 80\%
 \pause
-\item recall: 100\%
+\item recall: 57.1\%
 \end{itemize}
 \end{frame}
 	

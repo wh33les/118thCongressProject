@@ -98,25 +98,60 @@ morekeywords={__global__, __device__},  % CUDA specific keywords
 This project uses logistic regression to predict whether a bill introduced in the 118th Congress will become a law.  
 
 \vspace{0.5pc}
-As of 1 June 2024, 15,366 bills have been introduced and only 64 have become law!  This means there is a severe class imbalance in the data.  To mitigate this, the algorithm was trained and used on four subsets of the data:
-\begin{enumerate}
+As of 1 June 2024, 15,366 bills have been introduced in the 118th Congress but only 64 have become law!  This means there is a severe class imbalance in the data.  To mitigate this, the algorithm was trained and used on four subsets of the data:
+\begin{itemize}
+\itemsep0em
 \item All bills (15,366).
-\item Bills that passed in the House.  Given that a bill passed in the House, will it become a law?
-\item Bills that passed in the Senate.  Given that a bill passed in the Senate, will it become a law?
-\item Bills that passed in both chambers.  Given that a bill passed in both chambers, will it become a law?
-\end{enumerate}
+\item Bills that passed in the House (539).  Given that a bill passed in the House, will it become a law?
+\item Bills that passed in the Senate (189).  Given that a bill passed in the Senate, will it become a law?
+\item Bills that passed in both chambers (81).  Given that a bill passed in both chambers, will it become a law?
+\end{itemize}
 
-\vspace{1pc}
+\vspace{0.5pc}
 %\vfill
 \begin{center}
 {\large\textbf{Results}}
 \end{center}  
 
+\textbf{Train.}
+\begin{center}
+\renewcommand{\arraystretch}{1.5}
+\begin{tabular}{| l | c | c | c | c |}
+\hline
+\textbf{Trained on} & \textbf{Baseline Accuracy} & \textbf{Accuracy} & \textbf{Precision} & \textbf{Recall} \\
+\hline
+All bills & 99.6\% & 99.8\% & 100\% & 57.1\% \\
+\hline
+Passed in House & 90.7\% & 97.7\% & 80\% & 100\% \\
+\hline
+Passed in Senate & 66.7\% & 85.7\% & 83.3\% & 71.4\% \\
+\hline 
+Passed in both & 33.3\% & 83.3\% & 80\% & 100\% \\
+\hline
+\end{tabular}
+\end{center}
 
-\vspace{0.75pc}
+\textbf{Test.}  We chose to test with the algorithm that was trained on the bills that passed in the House.  Here is how the model performed:
+
+\begin{center}
+\renewcommand{\arraystretch}{1.5}
+\begin{tabular}{| c | c | c | c |}
+\hline
+\textbf{Baseline Accuracy} & \textbf{Accuracy} & \textbf{Precision} & \textbf{Recall} \\
+\hline
+94.3\% & 97.7\% & 80\% & 57
+1\% \\
+\hline
+\end{tabular}
+\end{center}
+
+\vspace{0.5pc}
 \begin{center}
 {\large\textbf{Implications}}
 \end{center}
+
+When training the KPIs looked pretty good, but when tested the model was likely overfit due to the severe class imbalance and due to the large number of features.  The next step is to work some more on dimension reduction and pinpoint which features lead to a bill becoming law.
+
 
 
 \end{document} 
