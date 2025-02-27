@@ -10,3 +10,6 @@ DataGatheringStakeholdersKPIs/warren_api_info.py
 118presentation.snm
 118presentation.tex
 118presentation.toc
+.venv
+CongressPitch.txt
+TooMuchOutputCrashFix.ipynb
